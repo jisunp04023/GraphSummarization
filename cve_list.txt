@@ -1,0 +1,5078 @@
+[
+  ["CVE-2017-1000503", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["STRUCT", "race condition"],
+      ["CWE", "CWE-362"],
+      ["IMPACT", 6.4],
+      ["VENDER", "jenkins"]
+    ]
+  }],
+  ["CVE-2017-11418", {
+    "entities": [
+      ["DRIVER", "dapur/apps/app_article/controller/"],
+      ["VULNERABILITY", "sql"],
+      ["SOURCECODE", "article_list.php"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-89"],
+      ["SOFTWARE", "fiyo cms"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-10887", {
+    "entities": [
+      ["CWE", "CWE-426"],
+      ["VULNERABILITY", "priv"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "book walker"],
+      ["STRUCT", "untrusted search path"]
+    ]
+  }],
+  ["CVE-2017-9434", {
+    "entities": [
+      ["SOFTWARE", "cryptopp"],
+      ["SOURCECODE", "zinflate.c"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "crypto"],
+      ["CWE", "CWE-125"]
+    ]
+  }],
+  ["CVE-2017-17575", {
+    "entities": [
+      ["SOURCECODE", "vendor_details.php"],
+      ["VULNERABILITY", "sql"],
+      ["SOFTWARE", "fs groupon clone"],
+      ["SOURCECODE", "item_details.php"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-89"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-1369", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["VENDER", "ibm"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "relm"],
+      ["VULNERABILITY", "xss"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-0709", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "sensor hub driver"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["VENDER", "htc"]
+    ]
+  }],
+  ["CVE-2017-15020", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["STRUCT", "libbfd"],
+      ["VENDER", "gnu"],
+      ["SOURCECODE", "dwarf1.c"],
+      ["SOFTWARE", "binutils"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-3585", {
+    "entities": [
+      ["SOFTWARE", "zfs storage appliance kit"],
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["VENDER", "sun"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-18242", {
+    "entities": [
+      ["DRIVER", "libavcodec/"],
+      ["SOURCECODE", "aacdec.c"],
+      ["STRUCT", "crafted aac file"],
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9],
+      ["FUNCTION", "apply_dependent_coupling"],
+      ["CWE", "CWE-125"],
+      ["SOFTWARE", "libav"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-1459", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["VENDER", "ibm"],
+      ["V2_CVSS", 4.9],
+      ["SOFTWARE", "security access manager appliance"]
+    ]
+  }],
+  ["CVE-2017-15568", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["DRIVER", "app/helpers/"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "redmine"],
+      ["SOFTWARE", "application_helper.rb "]
+    ]
+  }],
+  ["CVE-2017-2098", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["SOFTWARE", "cubecart"],
+      ["VULNERABILITY", "dir.trav."],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-7030", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "tvos"],
+      ["SOFTWARE", "icloud"],
+      ["SOFTWARE", "itunes"],
+      ["SOFTWARE", "safari"],
+      ["STRUCT", "webkit"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-13210", {
+    "entities": [
+      ["SOURCECODE", "cameradeviceclient.cpp"],
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-787"],
+      ["SOFTWARE", "android"],
+      ["FUNCTION", "submitrequestlist"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-16667", {
+    "entities": [
+      ["DRIVER", "qt4/plugins/"],
+      ["CWE", "CWE-78"],
+      ["SOURCECODE", "notifyplugin.py"],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "back in time"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "backintime"]
+    ]
+  }],
+  ["CVE-2017-2252", {
+    "entities": [
+      ["CWE", "CWE-426"],
+      ["VULNERABILITY", "priv"],
+      ["SOFTWARE", "file compact"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["STRUCT", "untrusted search path "]
+    ]
+  }],
+  ["CVE-2017-15276", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["VULNERABILITY", "priv dir.trav."],
+      ["IMPACT", 6.4],
+      ["STRUCT", "symlinks"],
+      ["SOFTWARE", "opentext documentum content server"],
+      ["V2_CVSS", 6.5],
+      ["VENDER", "emc"]
+    ]
+  }],
+  ["CVE-2017-7878", {
+    "entities": [
+      ["VENDER", "flatcore"],
+      ["VULNERABILITY", "sql"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "flatcore"],
+      ["CWE", "CWE-89"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-14116", {
+    "entities": [
+      ["SOFTWARE", "u-verse"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "arris nvg599 device"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["CWE", "CWE-798"],
+      ["VENDER", "at&t"]
+    ]
+  }],
+  ["CVE-2017-15892", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["V2_CVSS", 3.5],
+      ["SOFTWARE", "synology chat"],
+      ["STRUCT", "slash command creator"]
+    ]
+  }],
+  ["CVE-2017-0291", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "windows server 2016"],
+      ["SOFTWARE", "windows pdf"],
+      ["SOFTWARE", "windows 10"],
+      ["CWE", "CWE-284"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-3870", {
+    "entities": [
+      ["SOFTWARE", "asyncos software"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VENDER", "cisco"],
+      ["VULNERABILITY", "overflow bypass"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-1000485", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 2.1],
+      ["CWE", "CWE-275"],
+      ["SOFTWARE", "nylas mail lives"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-11546", {
+    "entities": [
+      ["SOFTWARE", "timidity"],
+      ["V2_CVSS", 4.3],
+      ["SOURCECODE", "readmidi.c"],
+      ["CWE", "CWE-369"],
+      ["IMPACT", 2.9],
+      ["FUNCTION", "insert_note_steps"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-5850", {
+    "entities": [
+      ["V2_CVSS", 7.8],
+      ["IMPACT", 6.9],
+      ["CWE", "CWE-399"],
+      ["VENDER", "openbsd"],
+      ["VULNERABILITY", "dos"],
+      ["STRUCT", "http range header"],
+      ["SOFTWARE", "httpd"]
+    ]
+  }],
+  ["CVE-2017-2459", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "tvos"],
+      ["SOFTWARE", "safari"],
+      ["STRUCT", "webkit"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-1000357", {
+    "entities": [
+      ["SOFTWARE", "odl-l2switch-switch"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VENDER", "opendaylight"],
+      ["CWE", "CWE-399"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-17904", {
+    "entities": [
+      ["SOFTWARE", "fs lynda clone"],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["DRIVER", "tutorial/"],
+      ["V2_CVSS", 3.5],
+      ["DRIVER", "user/edit_profile"]
+    ]
+  }],
+  ["CVE-2017-6689", {
+    "entities": [
+      ["CWE", "CWE-255"],
+      ["VULNERABILITY", "unknown"],
+      ["STRUCT", "confd cli"],
+      ["IMPACT", 6.4],
+      ["VENDER", "cisco"],
+      ["V2_CVSS", 6.5],
+      ["SOFTWARE", "elastic services controllers"]
+    ]
+  }],
+  ["CVE-2017-9979", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "quantastor v4 virtual appliance"],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "osnexus"]
+    ]
+  }],
+  ["CVE-2017-0107", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["VENDER", "microsoft"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "sharepoint server"],
+      ["VULNERABILITY", "xss"]
+    ]
+  }],
+  ["CVE-2017-2576", {
+    "entities": [
+      ["V2_CVSS", 5.0],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "unknown"],
+      ["VENDER", "moodle"],
+      ["CWE", "CWE-20"]
+    ]
+  }],
+  ["CVE-2017-17151", {
+    "entities": [
+      ["SOFTWARE", "ar160"],
+      ["SOFTWARE", "ar120"],
+      ["SOFTWARE", "tp3206"],
+      ["SOFTWARE", "dp300"],
+      ["SOFTWARE", "srg2300"],
+      ["SOFTWARE", "rp200"],
+      ["SOFTWARE", "ar110-s"],
+      ["SOFTWARE", "te40"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "te30"],
+      ["SOFTWARE", "tp3106"],
+      ["SOFTWARE", "ar1200-s"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "te50"],
+      ["CWE", "CWE-20"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "ar200"],
+      ["SOFTWARE", "ar200-s"],
+      ["SOFTWARE", "srg3300"],
+      ["VENDER", "huawei"],
+      ["SOFTWARE", "ar510"],
+      ["SOFTWARE", "viewpoint 8660"],
+      ["SOFTWARE", "srg1300"],
+      ["SOFTWARE", "viewpoint 9030"],
+      ["SOFTWARE", "netengine16ex"],
+      ["SOFTWARE", "te60"],
+      ["SOFTWARE", "ar2200"],
+      ["SOFTWARE", "ar1200"],
+      ["SOFTWARE", "ar2200-s"],
+      ["SOFTWARE", "ar3200"],
+      ["SOFTWARE", "ar100-s"],
+      ["SOFTWARE", "ar120-s"],
+      ["SOFTWARE", "ar150"],
+      ["SOFTWARE", "ar150-s"],
+      ["SOFTWARE", "ar100"]
+    ]
+  }],
+  ["CVE-2017-11096", {
+    "entities": [
+      ["DRIVER", "lib/modules/"],
+      ["VENDER", "swftools"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "swfcombine"],
+      ["IMPACT", 6.4],
+      ["FUNCTION", "swf_deletefilter"],
+      ["CWE", "CWE-476"],
+      ["SOURCECODE", "swffilter.c"]
+    ]
+  }],
+  ["CVE-2017-8929", {
+    "entities": [
+      ["SOURCECODE", "sizedstr.c"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["FUNCTION", "sized_string_cmp"],
+      ["DRIVER", "libyara/"],
+      ["VULNERABILITY", "dos"],
+      ["CWE", "CWE-416"],
+      ["SOFTWARE", "yara"]
+    ]
+  }],
+  ["CVE-2017-6724", {
+    "entities": [
+      ["SOFTWARE", "prime infrastructure"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "cisco"]
+    ]
+  }],
+  ["CVE-2017-9822", {
+    "entities": [
+      ["SOFTWARE", "dnn"],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 6.5],
+      ["SOFTWARE", "dotnetnuke"]
+    ]
+  }],
+  ["CVE-2017-14438", {
+    "entities": [
+      ["CWE", "CWE-20"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VENDER", "moxa"],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "edr-810"]
+    ]
+  }],
+  ["CVE-2017-6136", {
+    "entities": [
+      ["SOFTWARE", "aam"],
+      ["SOFTWARE", "link controller"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "dns"],
+      ["IMPACT", 2.9],
+      ["VENDER", "f5"],
+      ["SOFTWARE", "gtm"],
+      ["SOFTWARE", "big-ip ltm"],
+      ["STRUCT", "traffic management microkernel"],
+      ["SOFTWARE", "asm"],
+      ["SOFTWARE", "analytics"],
+      ["SOFTWARE", "pem"],
+      ["SOFTWARE", "apm"],
+      ["SOFTWARE", "websafe"],
+      ["SOFTWARE", "afm"]
+    ]
+  }],
+  ["CVE-2017-9729", {
+    "entities": [
+      ["SOFTWARE", "uclibc"],
+      ["STRUCT", "uncontrolled recursion"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["FUNCTION", "check_dst_limits_calc_pos_1"],
+      ["CWE", "CWE-399"],
+      ["SOURCECODE", "regexec.c"],
+      ["DRIVER", "misc/regex/"],
+      ["STRUCT", "stack exhaustion"]
+    ]
+  }],
+  ["CVE-2017-11171", {
+    "entities": [
+      ["SOURCECODE", "gsm-xsmp-server.c"],
+      ["CWE", "CWE-769"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.9],
+      ["SOFTWARE", "gnome-session"],
+      ["V2_CVSS", 4.9],
+      ["STRUCT", "bad reference counting"],
+      ["FUNCTION", "accept_ice_connection"]
+    ]
+  }],
+  ["CVE-2017-9348", {
+    "entities": [
+      ["STRUCT", "dof dissector"],
+      ["IMPACT", 2.9],
+      ["VENDER", "wireshark"],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "overflow"],
+      ["DRIVER", "epan/dissectors/"],
+      ["SOURCECODE", "packet-dof.c"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "wireshark"]
+    ]
+  }],
+  ["CVE-2017-0755", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["CWE", "CWE-264"],
+      ["STRUCT", "libminikin"]
+    ]
+  }],
+  ["CVE-2017-14077", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 4.3],
+      ["SOURCECODE", "example_form.ajax.php"],
+      ["CWE", "CWE-94"],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "example_form.php"],
+      ["SOFTWARE", "securimage"]
+    ]
+  }],
+  ["CVE-2017-7885", {
+    "entities": [
+      ["V2_CVSS", 5.8],
+      ["FUNCTION", "jbig2_decode_symbol_dict"],
+      ["VULNERABILITY", "dos overflow"],
+      ["IMPACT", 4.9],
+      ["SOFTWARE", "jbig2dec"],
+      ["SOURCECODE", "jbig2_symbol_dict.c"],
+      ["VENDER", "artifex"],
+      ["CWE", "CWE-190"]
+    ]
+  }],
+  ["CVE-2017-16615", {
+    "entities": [
+      ["CWE", "CWE-77"],
+      ["VULNERABILITY", "execcode"],
+      ["SOURCECODE", "parser.py"],
+      ["FUNCTION", "parse_yaml_query"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["SOFTWARE", "mlalchemy"]
+    ]
+  }],
+  ["CVE-2017-8587", {
+    "entities": [
+      ["SOFTWARE", "windows explorer"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "windows 7"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-13674", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "proxyclient"],
+      ["CWE", "CWE-264"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0],
+      ["VENDER", "symantec"]
+    ]
+  }],
+  ["CVE-2017-0222", {
+    "entities": [
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "internet explorer"],
+      ["V2_CVSS", 7.6],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-6565", {
+    "entities": [
+      ["CWE", "CWE-284"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "ts-550 evo"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 6.5],
+      ["VENDER", "franklin fueling systems"]
+    ]
+  }],
+  ["CVE-2017-15833", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["FUNCTION", "update_userspace_power"],
+      ["V2_CVSS", 4.6],
+      ["SOFTWARE", "firefox"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-200"],
+      ["IMPACT", 6.4],
+      ["STRUCT", "untrusted pointer dereference"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-8979", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4],
+      ["VENDER", "hpe"],
+      ["SOFTWARE", "integrated lights-out"],
+      ["VULNERABILITY", "dos execcode bypass"]
+    ]
+  }],
+  ["CVE-2017-11763", {
+    "entities": [
+      ["STRUCT", "graphics component"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2016"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-11404", {
+    "entities": [
+      ["SOFTWARE", "cmsms"],
+      ["DRIVER", "admin/"],
+      ["SOURCECODE", "moduleinterface.php"],
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-264"],
+      ["SOFTWARE", "cms made simple"]
+    ]
+  }],
+  ["CVE-2017-15268", {
+    "entities": [
+      ["SOFTWARE", "qemu"],
+      ["SOURCECODE", "channel-websock.c"],
+      ["VULNERABILITY", "unknown"],
+      ["VENDER", "qemu"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-399"],
+      ["DRIVER", "io/"]
+    ]
+  }],
+  ["CVE-2017-8469", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2016"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 2.1],
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-5528", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "tibco jasperreports server"],
+      ["VENDER", "jasperreports"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-352"],
+      ["VULNERABILITY", "xss csrf"],
+      ["SOFTWARE", "tibco jasperreports server community edition"]
+    ]
+  }],
+  ["CVE-2017-13856", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "tvos"],
+      ["SOFTWARE", "icloud"],
+      ["SOFTWARE", "itunes"],
+      ["SOFTWARE", "safari"],
+      ["STRUCT", "webkit"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-5911", {
+    "entities": [
+      ["SOFTWARE", "ios"],
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "info"],
+      ["CWE", "CWE-295"],
+      ["STRUCT", "crafted certificate"],
+      ["SOFTWARE", "banco santander mexico sa supermovil"]
+    ]
+  }],
+  ["CVE-2017-6714", {
+    "entities": [
+      ["STRUCT", "autoit service"],
+      ["CWE", "CWE-78"],
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["SOFTWARE", "ultra services framework staging server"],
+      ["VENDER", "cisco"]
+    ]
+  }],
+  ["CVE-2017-11010", {
+    "entities": [
+      ["SOFTWARE", "mdm9650"],
+      ["SOFTWARE", "sd 625"],
+      ["SOFTWARE", "sd 210/sd 212/sd 205"],
+      ["SOFTWARE", "snapdragon iot"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "android"],
+      ["SOFTWARE", "sd 835"],
+      ["IMPACT", 10.0],
+      ["VENDER", "qualcomm"],
+      ["V2_CVSS", 10.0],
+      ["SOFTWARE", "snapdragon mobile mdm9206"],
+      ["SOFTWARE", "sd 650/52"]
+    ]
+  }],
+  ["CVE-2017-2802", {
+    "entities": [
+      ["CWE", "CWE-426"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "precision optimizer"],
+      ["IMPACT", 6.4],
+      ["SOURCECODE", "poaservice.exe"],
+      ["VENDER", "dell"]
+    ]
+  }],
+  ["CVE-2017-0154", {
+    "entities": [
+      ["V2_CVSS", 5.8],
+      ["VENDER", "microsoft"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "windows server 2016"],
+      ["IMPACT", 4.9],
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "internet explorer"],
+      ["CWE", "CWE-74"]
+    ]
+  }],
+  ["CVE-2017-12501", {
+    "entities": [
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "intelligent management center"],
+      ["VENDER", "hpe"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "imc"],
+      ["V2_CVSS", 9.0]
+    ]
+  }],
+  ["CVE-2017-8785", {
+    "entities": [
+      ["SOFTWARE", "image viewer"],
+      ["SOURCECODE", "fsviewer.exe"],
+      ["V2_CVSS", 6.8],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-119"],
+      ["VENDER", "faststone"],
+      ["VULNERABILITY", "overflow"]
+    ]
+  }],
+  ["CVE-2017-14525", {
+    "entities": [
+      ["SOURCECODE", "default.htm"],
+      ["SOFTWARE", "documentum webtop"],
+      ["V2_CVSS", 5.8],
+      ["CWE", "CWE-601"],
+      ["VENDER", "opentext"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 4.9],
+      ["DRIVER", "xda/help/en/"],
+      ["DRIVER", "xda/component/virtuallinkconnect"]
+    ]
+  }],
+  ["CVE-2017-17110", {
+    "entities": [
+      ["SOURCECODE", "single.php"],
+      ["SOFTWARE", "techno portfolio management panel"],
+      ["VULNERABILITY", "sql"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-89"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-5535", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "gridserver engine components"],
+      ["V2_CVSS", 4.3],
+      ["VENDER", "tibco"],
+      ["STRUCT", "weak ciphers"],
+      ["IMPACT", 4.9],
+      ["SOFTWARE", "datasynapse gridserver manager"],
+      ["CWE", "CWE-326"],
+      ["SOFTWARE", "gridserver driver"],
+      ["STRUCT", "encryption mechanisms"],
+      ["SOFTWARE", "gridserver broker"]
+    ]
+  }],
+  ["CVE-2017-11797", {
+    "entities": [
+      ["CWE", "CWE-200"],
+      ["VULNERABILITY", "execcode info"],
+      ["SOFTWARE", "chakracore"],
+      ["V2_CVSS", 7.6],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-1258", {
+    "entities": [
+      ["SOFTWARE", "security guardium"],
+      ["CWE", "CWE-287"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 4.9],
+      ["VENDER", "ibm"],
+      ["V2_CVSS", 6.4]
+    ]
+  }],
+  ["CVE-2017-0579", {
+    "entities": [
+      ["V2_CVSS", 7.6],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "video driver"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-264"],
+      ["VENDER", "qualcomm"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-18053", {
+    "entities": [
+      ["SOFTWARE", "firefox"],
+      ["FUNCTION", "wma_p2p_lo_event_handler"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-125"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-6547", {
+    "entities": [
+      ["SOFTWARE", "rt-ac68u"],
+      ["SOFTWARE", "rt-n66w"],
+      ["SOFTWARE", "rt-ac87u"],
+      ["SOFTWARE", "rt-n600"],
+      ["SOFTWARE", "rt-ac53u"],
+      ["SOFTWARE", "rt-ac750"],
+      ["SOFTWARE", "rt-n66r"],
+      ["SOFTWARE", "rt-n12e c1"],
+      ["SOFTWARE", "rt-ac66u"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "rt-n300"],
+      ["SOFTWARE", "rt-n11p b1"],
+      ["SOFTWARE", "rt-n300 b1"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "rt-ac66r"],
+      ["SOFTWARE", "rt-ac68r"],
+      ["SOFTWARE", "rt-n12"],
+      ["SOFTWARE", "rt-n12e b1"],
+      ["VENDER", "asus"],
+      ["SOFTWARE", "rt-n56u"],
+      ["SOFTWARE", "rt-n66u"],
+      ["SOFTWARE", "rt-ac51u"],
+      ["CWE", "CWE-79"],
+      ["SOFTWARE", "rt-ac68w"],
+      ["SOFTWARE", "rt-ac1900p"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "rt-ac66w"],
+      ["SOFTWARE", "rt-ac3200"],
+      ["SOFTWARE", "rt-ac1750"],
+      ["STRUCT", "arbitrary javascript"],
+      ["SOFTWARE", "rt-ac87r"],
+      ["SOFTWARE", "rt-n11p"],
+      ["SOFTWARE", "rt-ac68p"],
+      ["SOFTWARE", "rt-n12vp b1"]
+    ]
+  }],
+  ["CVE-2017-8504", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "edge"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows server 2016"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["SOFTWARE", "windows 10"]
+    ]
+  }],
+  ["CVE-2017-14836", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "foxit"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "reader"],
+      ["CWE", "CWE-416"]
+    ]
+  }],
+  ["CVE-2017-1000374", {
+    "entities": [
+      ["VULNERABILITY", "execcode bypass"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "netbsd"],
+      ["IMPACT", 6.4],
+      ["STRUCT", "stack guard page"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-3186", {
+    "entities": [
+      ["SOFTWARE", "cameras"],
+      ["CWE", "CWE-798"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 10.0],
+      ["VENDER", "acti"],
+      ["V2_CVSS", 10.0],
+      ["STRUCT", "default admin credentials"]
+    ]
+  }],
+  ["CVE-2017-9060", {
+    "entities": [
+      ["SOURCECODE", "virtio-gpu.c"],
+      ["FUNCTION", "virtio_gpu_set_scanout"],
+      ["VENDER", "qemu"],
+      ["IMPACT", 6.9],
+      ["V2_CVSS", 4.9],
+      ["CWE", "CWE-399"],
+      ["DRIVER", "hw/display/"],
+      ["VULNERABILITY", "dos"],
+      ["FUNCTION", "virtio_gpu_cmd_set_scanout"]
+    ]
+  }],
+  ["CVE-2017-2422", {
+    "entities": [
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["STRUCT", "multi-touch"],
+      ["VENDER", "apple"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-10258", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 5.8],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "peoplesoft enterprise prtl interaction hub"],
+      ["IMPACT", 4.9]
+    ]
+  }],
+  ["CVE-2017-15262", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VENDER", "irfanview"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "irfanview"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-10401", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "mmsupdater"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "hospitality cruise materials management"]
+    ]
+  }],
+  ["CVE-2017-1000471", {
+    "entities": [
+      ["SOFTWARE", "goahead webserver"],
+      ["CWE", "CWE-476"],
+      ["IMPACT", 6.4],
+      ["STRUCT", "cgi handler"],
+      ["VENDER", "embedthis"],
+      ["V2_CVSS", 7.5],
+      ["VULNERABILITY", "dos mem.corr."]
+    ]
+  }],
+  ["CVE-2017-0089", {
+    "entities": [
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows vista"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["STRUCT", "crafted web site"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows 7"]
+    ]
+  }],
+  ["CVE-2017-9901", {
+    "entities": [
+      ["VENDER", "xnview"],
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "xnview classic"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4]
+    ]
+  }],
+  ["CVE-2017-1000056", {
+    "entities": [
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "kubernetes"],
+      ["CWE", "CWE-264"]
+    ]
+  }],
+  ["CVE-2017-7514", {
+    "entities": [
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "satellite"],
+      ["VENDER", "red hat"]
+    ]
+  }],
+  ["CVE-2017-0415", {
+    "entities": [
+      ["SOFTWARE", "android"],
+      ["SOFTWARE", "mediaserver"],
+      ["V2_CVSS", 9.3],
+      ["VULNERABILITY", "execcode priv"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-16924", {
+    "entities": [
+      ["VENDER", "manageengine"],
+      ["SOFTWARE", "desktop central msp"],
+      ["DRIVER", "/client-data/<client_id>/collections/##/"],
+      ["SOURCECODE", "usermgmt.xml"],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-0749", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-264"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-15826", {
+    "entities": [
+      ["CWE", "CWE-415"],
+      ["SOFTWARE", "race condition"],
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 4.4]
+    ]
+  }],
+  ["CVE-2017-8474", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 1.9],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2016"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-13088", {
+    "entities": [
+      ["SOFTWARE", "wpa2"],
+      ["SOFTWARE", "wpa"],
+      ["V2_CVSS", 2.9],
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "wi-fi protected access"]
+    ]
+  }],
+  ["CVE-2017-0356", {
+    "entities": [
+      ["CWE", "CWE-287"],
+      ["SOFTWARE", "ikiwiki"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "repeated parameters"],
+      ["VULNERABILITY", "bypass"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-16396", {
+    "entities": [
+      ["SOFTWARE", "acrobat"],
+      ["SOFTWARE", "reader"],
+      ["STRUCT", "tiff processing module"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["V2_CVSS", 9.3],
+      ["VENDER", "adobe"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-2451", {
+    "entities": [
+      ["SOFTWARE", "watchos"],
+      ["SOFTWARE", "tvos"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["VENDER", "apple"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "macos"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-5077", {
+    "entities": [
+      ["STRUCT", "crafted html page"],
+      ["SOFTWARE", "chrome"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "unknown"],
+      ["VENDER", "google"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-125"]
+    ]
+  }],
+  ["CVE-2017-12719", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-476"],
+      ["VENDER", "advantech"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "webaccess"]
+    ]
+  }],
+  ["CVE-2017-15710", {
+    "entities": [
+      ["VENDER", "apache"],
+      ["CWE", "CWE-787"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "httpd"]
+    ]
+  }],
+  ["CVE-2017-2437", {
+    "entities": [
+      ["VULNERABILITY", "dos overflow priv"],
+      ["STRUCT", "\"iofirewireavc\" component"],
+      ["CWE", "CWE-119"],
+      ["VENDER", "apple"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "macos"]
+    ]
+  }],
+  ["CVE-2017-17058", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["VULNERABILITY", "dir.trav."],
+      ["VENDER", "wordpress"],
+      ["SOFTWARE", "woocommerce plugin"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["DRIVER", "content/plugins/woocommerce/templates/emails/plain"]
+    ]
+  }],
+  ["CVE-2017-1000212", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["SOFTWARE", "alchemist.vim"],
+      ["CWE", "CWE-264"]
+    ]
+  }],
+  ["CVE-2017-16581", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "foxit"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "reader"],
+      ["CWE", "CWE-416"]
+    ]
+  }],
+  ["CVE-2017-7732", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "fortimail"],
+      ["VULNERABILITY", "xss"],
+      ["STRUCT", "crafted http requests"],
+      ["VENDER", "fortinet"]
+    ]
+  }],
+  ["CVE-2017-10382", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 4.3],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "peoplesoft"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-7943", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["SOURCECODE", "svg.c"],
+      ["SOFTWARE", "imagemagick"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["FUNCTION", "readsvgimage"],
+      ["VENDER", "imagemagick"],
+      ["CWE", "CWE-399"]
+    ]
+  }],
+  ["CVE-2017-18142", {
+    "entities": [
+      ["SOFTWARE", "mdm9650"],
+      ["SOFTWARE", "sd 845"],
+      ["SOFTWARE", "sd 850"],
+      ["SOFTWARE", "snapdragon"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-119"],
+      ["VULNERABILITY", "overflow"],
+      ["SOFTWARE", "mdm9655"],
+      ["IMPACT", 10.0],
+      ["VENDER", "qualcomm"],
+      ["V2_CVSS", 10.0],
+      ["SOFTWARE", "sd 835"]
+    ]
+  }],
+  ["CVE-2017-14170", {
+    "entities": [
+      ["STRUCT", "crafted mxf file"],
+      ["V2_CVSS", 7.1],
+      ["VULNERABILITY", "unknown"],
+      ["SOURCECODE", "mxfdec.c"],
+      ["IMPACT", 6.9],
+      ["VENDER", "ffmpeg"],
+      ["DRIVER", "libavformat/"],
+      ["CWE", "CWE-399"],
+      ["FUNCTION", "mxf_read_index_entry_array"]
+    ]
+  }],
+  ["CVE-2017-12673", {
+    "entities": [
+      ["SOURCECODE", "png.c"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "imagemagick"],
+      ["DRIVER", "coders/"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 2.9],
+      ["VENDER", "imagemagick"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-2400", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "ios"],
+      ["SOFTWARE", "safari"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["VENDER", "apple"],
+      ["STRUCT", "\"safariviewcontroller\" component"]
+    ]
+  }],
+  ["CVE-2017-16875", {
+    "entities": [
+      ["STRUCT", "ioqueue component"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "pjproject"],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "overflow"],
+      ["VENDER", "teluu"],
+      ["SOFTWARE", "pjlib-util"],
+      ["CWE", "CWE-320"],
+      ["SOFTWARE", "pjlib"]
+    ]
+  }],
+  ["CVE-2017-12217", {
+    "entities": [
+      ["SOFTWARE", "asr 5500"],
+      ["CWE", "CWE-20"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["STRUCT", "general packet radio service"],
+      ["VENDER", "cisco"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-1000211", {
+    "entities": [
+      ["VENDER", "lynx"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["FUNCTION", "html_put_string"],
+      ["SOFTWARE", "lynx"],
+      ["CWE", "CWE-416"]
+    ]
+  }],
+  ["CVE-2017-13672", {
+    "entities": [
+      ["SOFTWARE", "qemu"],
+      ["VENDER", "qemu"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 2.1],
+      ["CWE", "CWE-125"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-8953", {
+    "entities": [
+      ["SOFTWARE", "loadrunner"],
+      ["VENDER", "hpe"],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-3570", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "peoplesoft"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 6.5]
+    ]
+  }],
+  ["CVE-2017-15733", {
+    "entities": [
+      ["DRIVER", "admin/"],
+      ["V2_CVSS", 6.8],
+      ["SOURCECODE", "att.main.php"],
+      ["VULNERABILITY", "csrf"],
+      ["SOURCECODE", "ajax.attachment.php"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-352"],
+      ["SOFTWARE", "phpmyfaq"]
+    ]
+  }],
+  ["CVE-2017-8398", {
+    "entities": [
+      ["CWE", "CWE-119"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "overflow"],
+      ["VENDER", "gnu"],
+      ["SOFTWARE", "binutils"],
+      ["SOURCECODE", "dwarf.c"]
+    ]
+  }],
+  ["CVE-2017-2317", {
+    "entities": [
+      ["SOFTWARE", "networks northstar controller application"],
+      ["VULNERABILITY", "dos info"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["VENDER", "juniper"]
+    ]
+  }],
+  ["CVE-2017-8101", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "csrf"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-352"],
+      ["SOFTWARE", "serendipity"],
+      ["VENDER", "serendipity"]
+    ]
+  }],
+  ["CVE-2017-8934", {
+    "entities": [
+      ["CWE", "CWE-20"],
+      ["DRIVER", "/tmp"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 2.1],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "pcmanfm"]
+    ]
+  }],
+  ["CVE-2017-8607", {
+    "entities": [
+      ["V2_CVSS", 7.6],
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2016"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "windows 10"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-8472", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 1.9],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows server 2008"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2012"]
+    ]
+  }],
+  ["CVE-2017-16551", {
+    "entities": [
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "k7 antivirus premium"],
+      ["V2_CVSS", 4.4],
+      ["CWE", "CWE-264"],
+      ["VULNERABILITY", "priv"]
+    ]
+  }],
+  ["CVE-2017-6205", {
+    "entities": [
+      ["SOFTWARE", "dgs-1510-52x"],
+      ["STRUCT", "unspecified vectors"],
+      ["SOFTWARE", "dgs-1510-28p"],
+      ["SOFTWARE", "dgs-1510-28xmp"],
+      ["SOFTWARE", "dgs-1510-28x"],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "dgs-1510-52"],
+      ["VENDER", "d-link"],
+      ["CWE", "CWE-264"],
+      ["SOFTWARE", "dgs-1510-28"],
+      ["V2_CVSS", 7.5],
+      ["SOFTWARE", "dgs-1510-20"]
+    ]
+  }],
+  ["CVE-2017-17657", {
+    "entities": [
+      ["FUNCTION", "nvbubackup timerange"],
+      ["SOFTWARE", "netvault backup"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "execcode sql"],
+      ["CWE", "CWE-89"],
+      ["VENDER", "quest"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-1791", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "rational quality manager"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-17328", {
+    "entities": [
+      ["SOFTWARE", "mha-al00ac00b125"],
+      ["V2_CVSS", 7.1],
+      ["IMPACT", 6.9],
+      ["VULNERABILITY", "overflow"],
+      ["VENDER", "huawei"],
+      ["CWE", "CWE-190"]
+    ]
+  }],
+  ["CVE-2017-10616", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 4.9],
+      ["V2_CVSS", 6.4],
+      ["CWE", "CWE-798"],
+      ["STRUCT", "ifmap service"],
+      ["VENDER", "juniper"],
+      ["SOFTWARE", "networks contrail releases"]
+    ]
+  }],
+  ["CVE-2017-6656", {
+    "entities": [
+      ["SOFTWARE", "ip phone 8800 series"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-20"],
+      ["IMPACT", 2.9],
+      ["VENDER", "cisco"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-12718", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode overflow"],
+      ["SOFTWARE", "medfusion 4000 wireless syringe infusion pump"],
+      ["IMPACT", 6.4],
+      ["VENDER", "smiths medical"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-1249", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "rhapsody dm"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-2671", {
+    "entities": [
+      ["STRUCT", "ipproto_icmp"],
+      ["SOFTWARE", "linux kernel"],
+      ["DRIVER", "net/ipv4/"],
+      ["CWE", "CWE-284"],
+      ["FUNCTION", "ping_unhash"],
+      ["IMPACT", 6.9],
+      ["SOURCECODE", "ping.c"],
+      ["V2_CVSS", 4.9],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-10031", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["V2_CVSS", 6.4],
+      ["STRUCT", "communications convergence component"]
+    ]
+  }],
+  ["CVE-2017-0773", {
+    "entities": [
+      ["V2_CVSS", 7.1],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.9],
+      ["SOFTWARE", "libhevc"],
+      ["SOFTWARE", "media framework"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-0469", {
+    "entities": [
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "mediaserver"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-0078", {
+    "entities": [
+      ["VULNERABILITY", "priv"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows server 2016"],
+      ["CWE", "CWE-264"],
+      ["V2_CVSS", 7.2],
+      ["SOFTWARE", "windows 10"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"],
+      ["STRUCT", "kernel-mode drivers"]
+    ]
+  }],
+  ["CVE-2017-7770", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-5884", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-118"],
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "gtk-vnc"]
+    ]
+  }],
+  ["CVE-2017-1793", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "rational quality manager"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-7325", {
+    "entities": [
+      ["VENDER", "yandex"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "yandex browser"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-5235", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-426"],
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "metasploit pro"],
+      ["VENDER", "rapid7"],
+      ["IMPACT", 6.4]
+    ]
+  }],
+  ["CVE-2017-14090", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 4.9],
+      ["V2_CVSS", 6.4],
+      ["CWE", "CWE-326"],
+      ["SOFTWARE", "scanmail for exchange"],
+      ["VENDER", "trend micro"]
+    ]
+  }],
+  ["CVE-2017-7110", {
+    "entities": [
+      ["SOFTWARE", "watchos"],
+      ["SOFTWARE", "tvos"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["VENDER", "apple"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["STRUCT", "crafted wi-fi traffic"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-8680", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows 7"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 2.1],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-8904", {
+    "entities": [
+      ["FUNCTION", "gnttabop_transfer"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 10.0],
+      ["VENDER", "xen"],
+      ["SOFTWARE", "xen"]
+    ]
+  }],
+  ["CVE-2017-9557", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "easy chat server"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["SOURCECODE", "register.ghp"],
+      ["VENDER", "efs software"]
+    ]
+  }],
+  ["CVE-2017-1329", {
+    "entities": [
+      ["SOFTWARE", "quality manager"],
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-94"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "rqm"],
+      ["VENDER", "ibm"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-8749", {
+    "entities": [
+      ["V2_CVSS", 7.6],
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2016"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows 10"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "internet explorer"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-10394", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "peoplesoft"],
+      ["IMPACT", 4.9],
+      ["V2_CVSS", 5.5],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-18192", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOURCECODE", "calculatoractivity.java"],
+      ["DRIVER", "smart/calculator/gallerylock/"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "photo,video locker-calculator"]
+    ]
+  }],
+  ["CVE-2017-13715", {
+    "entities": [
+      ["CWE", "CWE-20"],
+      ["DRIVER", "net/core/"],
+      ["STRUCT", "crafted mpls packet"],
+      ["IMPACT", 10.0],
+      ["VULNERABILITY", "dos execcode"],
+      ["SOURCECODE", "flow_dissector.c"],
+      ["V2_CVSS", 10.0],
+      ["FUNCTION", "__skb_flow_dissect"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-12907", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["SOURCECODE", "usersearch.php"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "nexusphp"]
+    ]
+  }],
+  ["CVE-2017-2435", {
+    "entities": [
+      ["STRUCT", "crafted font file"],
+      ["SOFTWARE", "watchos"],
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "tvos"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["SOFTWARE", "macos"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-8757", {
+    "entities": [
+      ["V2_CVSS", 7.6],
+      ["SOFTWARE", "edge"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows server 2016"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "windows 10"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-5801", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "process monitor"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["VENDER", "hpe"]
+    ]
+  }],
+  ["CVE-2017-8013", {
+    "entities": [
+      ["STRUCT", "emc.dpa.agent.logon"],
+      ["VULNERABILITY", "priv"],
+      ["STRUCT", "apollo system test"],
+      ["SOFTWARE", "data protection advisor"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-798"],
+      ["V2_CVSS", 7.5],
+      ["VENDER", "emc"],
+      ["STRUCT", "emc.dpa.metrics.logon"]
+    ]
+  }],
+  ["CVE-2017-13696", {
+    "entities": [
+      ["SOFTWARE", "dup scout enterprise "],
+      ["CWE", "CWE-119"],
+      ["VENDER", "dup scout"],
+      ["VULNERABILITY", "overflow priv"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "sync breeze enterprise"],
+      ["V2_CVSS", 10.0],
+      ["SOFTWARE", "disk savvy enterprise"]
+    ]
+  }],
+  ["CVE-2017-1000482", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["V2_CVSS", 3.5],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "plone"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-2302", {
+    "entities": [
+      ["VENDER", "juniper"],
+      ["V2_CVSS", 7.8],
+      ["CWE", "CWE-19"],
+      ["SOFTWARE", "junos"],
+      ["IMPACT", 6.9],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-6531", {
+    "entities": [
+      ["SOURCECODE", "readfile.cgi"],
+      ["SOFTWARE", "coaxdata gateway 1gbps devices"],
+      ["SOURCECODE", "loadcfgfile"],
+      ["CWE", "CWE-255"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["DRIVER", "backup/restore"],
+      ["VENDER", "televes"]
+    ]
+  }],
+  ["CVE-2017-12904", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["V2_CVSS", 9.3],
+      ["SOFTWARE", "newsbeuter"],
+      ["CWE", "CWE-943"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-2690", {
+    "entities": [
+      ["SOFTWARE", "espace u1981"],
+      ["SOFTWARE", "softco"],
+      ["VENDER", "softco"],
+      ["SOFTWARE", "espace u1911"],
+      ["IMPACT", 6.9],
+      ["SOFTWARE", "espace u1910"],
+      ["V2_CVSS", 4.9],
+      ["CWE", "CWE-399"],
+      ["SOFTWARE", "espace u1960"],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "espace u1980"],
+      ["SOFTWARE", "espace u1930"]
+    ]
+  }],
+  ["CVE-2017-6050", {
+    "entities": [
+      ["VENDER", "ecava"],
+      ["STRUCT", "sql queries"],
+      ["SOFTWARE", "integraxor"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "execcode sql"],
+      ["CWE", "CWE-89"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-0413", {
+    "entities": [
+      ["SOFTWARE", "aosp messaging"],
+      ["V2_CVSS", 4.3],
+      ["VULNERABILITY", "bypass info"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"]
+    ]
+  }],
+  ["CVE-2017-15729", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "csrf"],
+      ["IMPACT", 6.4],
+      ["VENDER", "phpmyfaq"],
+      ["CWE", "CWE-352"],
+      ["SOFTWARE", "phpmyfaq"]
+    ]
+  }],
+  ["CVE-2017-9982", {
+    "entities": [
+      ["SOFTWARE", "teamspeak"],
+      ["VENDER", "teamspeak"],
+      ["CWE", "CWE-20"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-15312", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["SOFTWARE", "smartcare v200r003c10"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "huawei"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-0823", {
+    "entities": [
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-8141", {
+    "entities": [
+      ["CWE", "CWE-415"],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "android"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "p10 plus smart phones"]
+    ]
+  }],
+  ["CVE-2017-15743", {
+    "entities": [
+      ["STRUCT", "crafted .dwg file"],
+      ["V2_CVSS", 6.8],
+      ["VENDER", "irfanview"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "irfanview"],
+      ["VULNERABILITY", "dos overflow"]
+    ]
+  }],
+  ["CVE-2017-8301", {
+    "entities": [
+      ["FUNCTION", "ssl_get_verify_result"],
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "libressl"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 2.6]
+    ]
+  }],
+  ["CVE-2017-15379", {
+    "entities": [
+      ["SOFTWARE", "e-sic"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4],
+      ["VENDER", "e-sic"],
+      ["V2_CVSS", 7.5],
+      ["DRIVER", "/index"],
+      ["VULNERABILITY", "sql bypass"]
+    ]
+  }],
+  ["CVE-2017-1000189", {
+    "entities": [
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "nodejs ejs"],
+      ["VULNERABILITY", "unknown"],
+      ["FUNCTION", "ejs.renderfile"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-7616", {
+    "entities": [
+      ["CWE", "CWE-388"],
+      ["STRUCT", "mbind compat syscalls"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "info"],
+      ["DRIVER", "mm/"],
+      ["V2_CVSS", 2.1],
+      ["SOURCECODE", "mempolicy.c"],
+      ["STRUCT", "set_mempolicy"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-11003", {
+    "entities": [
+      ["V2_CVSS", 4.6],
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-264"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-11267", {
+    "entities": [
+      ["SOFTWARE", "acrobat"],
+      ["SOFTWARE", "reader"],
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["CWE", "CWE-119"],
+      ["V2_CVSS", 9.3],
+      ["VENDER", "adobe"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-7634", {
+    "entities": [
+      ["SOFTWARE", "nas application media streaming add-on"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["VENDER", "qnap"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["STRUCT", "crafted link"]
+    ]
+  }],
+  ["CVE-2017-10685", {
+    "entities": [
+      ["SOFTWARE", "ncurses"],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 6.4],
+      ["FUNCTION", "fmt_entry"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-14535", {
+    "entities": [
+      ["SOFTWARE", "trixbox"],
+      ["CWE", "CWE-78"],
+      ["VULNERABILITY", "unknown"],
+      ["DRIVER", "/maint/modules/home/"],
+      ["SOURCECODE", "index.php"],
+      ["V2_CVSS", 9.0],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-17106", {
+    "entities": [
+      ["SOFTWARE", "pr115-204-p-rs"],
+      ["CWE", "CWE-255"],
+      ["VULNERABILITY", "unknown"],
+      ["VENDER", "zivif"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["DRIVER", "/cgi-bin/hi3510/"]
+    ]
+  }],
+  ["CVE-2017-13806", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "ios"],
+      ["VENDER", "apple"]
+    ]
+  }],
+  ["CVE-2017-1000405", {
+    "entities": [
+      ["FUNCTION", "can_follow_write_pmd"],
+      ["VULNERABILITY", "unknown"],
+      ["FUNCTION", "get_user_pages"],
+      ["FUNCTION", "touch_pmd"],
+      ["CWE", "CWE-362"],
+      ["FUNCTION", "pmd_mkdirty"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 6.9],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-2352", {
+    "entities": [
+      ["SOFTWARE", "watchos"],
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "ios"],
+      ["VENDER", "apple"],
+      ["V2_CVSS", 2.1],
+      ["STRUCT", "unspecified vectors"]
+    ]
+  }],
+  ["CVE-2017-1000479", {
+    "entities": [
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-352"],
+      ["SOFTWARE", "pfsense"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode csrf"]
+    ]
+  }],
+  ["CVE-2017-1000163", {
+    "entities": [
+      ["SOFTWARE", "phoenix framework"],
+      ["IMPACT", 4.9],
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 5.8],
+      ["CWE", "CWE-601"]
+    ]
+  }],
+  ["CVE-2017-14000", {
+    "entities": [
+      ["CWE", "CWE-287"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "skyrouter"],
+      ["V2_CVSS", 7.5],
+      ["VENDER", "ctek"]
+    ]
+  }],
+  ["CVE-2017-14130", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["FUNCTION", "_bfd_elf_parse_attributes"],
+      ["CWE", "CWE-119"],
+      ["STRUCT", "crafted elf file"],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "elf-attrs.c"],
+      ["VENDER", "gnu"],
+      ["SOFTWARE", "binutils"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-5542", {
+    "entities": [
+      ["SOFTWARE", "symphony cms"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["SOURCECODE", "usererror.missing_extension.php"],
+      ["DRIVER", "template/"]
+    ]
+  }],
+  ["CVE-2017-11655", {
+    "entities": [
+      ["V2_CVSS", 5.0],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "sipcrack"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-4943", {
+    "entities": [
+      ["V2_CVSS", 7.2],
+      ["VULNERABILITY", "priv"],
+      ["STRUCT", "'showlog' plugin"],
+      ["CWE", "CWE-264"],
+      ["VENDER", "vmware"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "vcenter server appliance"],
+      ["SOFTWARE", "vcsa"]
+    ]
+  }],
+  ["CVE-2017-14452", {
+    "entities": [
+      ["VULNERABILITY", "overflow"],
+      ["VENDER", "pubnub"],
+      ["SOFTWARE", "message handler"]
+    ]
+  }],
+  ["CVE-2017-1000171", {
+    "entities": [
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-532"],
+      ["SOFTWARE", "mahara mobile"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-3823", {
+    "entities": [
+      ["SOFTWARE", "chrome"],
+      ["SOFTWARE", "firefox"],
+      ["VENDER", "microsoft"],
+      ["VENDER", "google"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["V2_CVSS", 9.3],
+      ["VENDER", "cisco"],
+      ["SOFTWARE", "internet explorer"],
+      ["SOFTWARE", "webex"],
+      ["VENDER", "mozilla"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-9328", {
+    "entities": [
+      ["CWE", "CWE-77"],
+      ["VULNERABILITY", "execcode"],
+      ["DRIVER", "/usr/www/include/ajax/"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["SOFTWARE", "shell"],
+      ["SOURCECODE", "gettest.php"]
+    ]
+  }],
+  ["CVE-2017-14467", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "micrologix 1400 series"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["VENDER", "allen bradley"]
+    ]
+  }],
+  ["CVE-2017-0455", {
+    "entities": [
+      ["VULNERABILITY", "execcode bypass info"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["VENDER", "qualcomm"],
+      ["STRUCT", "bootloader"]
+    ]
+  }],
+  ["CVE-2017-7010", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "dos info"],
+      ["SOFTWARE", "tvos"],
+      ["SOFTWARE", "itunes"],
+      ["SOFTWARE", "icloud"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["CWE", "CWE-125"],
+      ["SOFTWARE", "macos"],
+      ["STRUCT", "\"libxml2\" component"]
+    ]
+  }],
+  ["CVE-2017-0781", {
+    "entities": [
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "bluetooth"],
+      ["SOFTWARE", "android"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["V2_CVSS", 8.3],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-14141", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-94"],
+      ["SOFTWARE", "kaltura"],
+      ["IMPACT", 6.4],
+      ["VENDER", "kaltura"],
+      ["STRUCT", "crafted serialized object"],
+      ["V2_CVSS", 6.5]
+    ]
+  }],
+  ["CVE-2017-3378", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 5.8],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["STRUCT", "advanced outbound telephony component"],
+      ["SOFTWARE", "e-business suite"]
+    ]
+  }],
+  ["CVE-2017-2311", {
+    "entities": [
+      ["VENDER", "juniper"],
+      ["SOFTWARE", "junos space"],
+      ["CWE", "CWE-254"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-8724", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "edge"],
+      ["VENDER", "microsoft"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "windows 10"]
+    ]
+  }],
+  ["CVE-2017-11133", {
+    "entities": [
+      ["VENDER", "heinekingmedia"],
+      ["FUNCTION", "math.random"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-327"],
+      ["SOFTWARE", "stashcat"],
+      ["FUNCTION", "cryptojs.lib.wordarray.random"]
+    ]
+  }],
+  ["CVE-2017-10858", {
+    "entities": [
+      ["CWE", "CWE-426"],
+      ["VULNERABILITY", "priv"],
+      ["STRUCT", "trojan horse dll"],
+      ["SOFTWARE", "i-filter"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-0246", {
+    "entities": [
+      ["SOFTWARE", "windows 10"],
+      ["STRUCT", "graphics component"],
+      ["VULNERABILITY", "dos priv"],
+      ["SOFTWARE", "windows server 2016"],
+      ["CWE", "CWE-264"],
+      ["SOFTWARE", "windows server 2008"],
+      ["V2_CVSS", 6.9],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"],
+      ["STRUCT", "kernel-mode drivers"]
+    ]
+  }],
+  ["CVE-2017-14353", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-94"],
+      ["IMPACT", 6.4],
+      ["VENDER", "hp"],
+      ["SOFTWARE", "ucmdb foundation software"]
+    ]
+  }],
+  ["CVE-2017-4937", {
+    "entities": [
+      ["STRUCT", "jpeg2000 parser"],
+      ["SOURCECODE", "tpview.dll"],
+      ["SOFTWARE", "horizon view client"],
+      ["VENDER", "vmware"],
+      ["V2_CVSS", 6.9],
+      ["IMPACT", 10.0],
+      ["VULNERABILITY", "dos execcode"],
+      ["SOFTWARE", "vmware workstation"],
+      ["CWE", "CWE-125"]
+    ]
+  }],
+  ["CVE-2017-14316", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["FUNCTION", "alloc_heap_pages"],
+      ["V2_CVSS", 7.2],
+      ["CWE", "CWE-125"],
+      ["IMPACT", 10.0],
+      ["VENDER", "xen"],
+      ["SOFTWARE", "xen"]
+    ]
+  }],
+  ["CVE-2017-6733", {
+    "entities": [
+      ["SOFTWARE", "identity services engine"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "cisco"],
+      ["SOFTWARE", "ise"]
+    ]
+  }],
+  ["CVE-2017-8221", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "wireless ip camera"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-12728", {
+    "entities": [
+      ["SOFTWARE", "scada web server"],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "spidercontrol"],
+      ["CWE", "CWE-264"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-1000419", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-918"],
+      ["SOFTWARE", "phpbb"],
+      ["VENDER", "phpbb"]
+    ]
+  }],
+  ["CVE-2017-13165", {
+    "entities": [
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["V2_CVSS", 4.6],
+      ["CWE", "CWE-264"]
+    ]
+  }],
+  ["CVE-2017-16833", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["SOURCECODE", ".gemspec"],
+      ["SOFTWARE", "gemirro"],
+      ["VULNERABILITY", "xss"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-9717", {
+    "entities": [
+      ["SOFTWARE", "linux kernel"],
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-0128", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 4.3],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows vista"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["STRUCT", "crafted web site"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows 7"]
+    ]
+  }],
+  ["CVE-2017-3014", {
+    "entities": [
+      ["SOFTWARE", "acrobat"],
+      ["SOFTWARE", "reader"],
+      ["VULNERABILITY", "execcode"],
+      ["V2_CVSS", 9.3],
+      ["VENDER", "adobe"],
+      ["CWE", "CWE-416"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-0081", {
+    "entities": [
+      ["VULNERABILITY", "priv"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows server 2016"],
+      ["CWE", "CWE-264"],
+      ["V2_CVSS", 7.2],
+      ["SOFTWARE", "windows 10"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"],
+      ["STRUCT", "crafted application"],
+      ["STRUCT", "kernel-mode drivers"]
+    ]
+  }],
+  ["CVE-2017-3453", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "mysql"]
+    ]
+  }],
+  ["CVE-2017-1000002", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["VULNERABILITY", "execcode dir.trav. bypass"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "atutor"],
+      ["STRUCT", "course icon component"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-13290", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["SOURCECODE", "sdp_server.c"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 2.1],
+      ["CWE", "CWE-125"],
+      ["FUNCTION", "sdp_server_handle_client_req"]
+    ]
+  }],
+  ["CVE-2017-10054", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["IMPACT", 4.9],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["STRUCT", "hospitality cruise materials management component"],
+      ["SOFTWARE", "hospitality applications"],
+      ["V2_CVSS", 3.6]
+    ]
+  }],
+  ["CVE-2017-1442", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "emptoris services procurement"],
+      ["VULNERABILITY", "csrf"],
+      ["IMPACT", 6.4],
+      ["VENDER", "ibm"],
+      ["CWE", "CWE-352"]
+    ]
+  }],
+  ["CVE-2017-17718", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "net-ldap"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-295"],
+      ["SOFTWARE", "net::ldap"]
+    ]
+  }],
+  ["CVE-2017-17935", {
+    "entities": [
+      ["SOURCECODE", "wslua_file.c"],
+      ["STRUCT", "crafted packet"],
+      ["DRIVER", "epan/wslua/"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 2.9],
+      ["VENDER", "wireshark"],
+      ["V2_CVSS", 5.0],
+      ["FUNCTION", "file_read_line"],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "wireshark"]
+    ]
+  }],
+  ["CVE-2017-9069", {
+    "entities": [
+      ["SOFTWARE", "modx revolution"],
+      ["VENDER", "modx"],
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-434"],
+      ["V2_CVSS", 6.5]
+    ]
+  }],
+  ["CVE-2017-6682", {
+    "entities": [
+      ["CWE", "CWE-78"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.4],
+      ["VENDER", "cisco"],
+      ["V2_CVSS", 6.5],
+      ["SOFTWARE", "elastic services controllers"]
+    ]
+  }],
+  ["CVE-2017-7112", {
+    "entities": [
+      ["SOFTWARE", "watchos"],
+      ["SOFTWARE", "tvos"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["VENDER", "apple"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["STRUCT", "crafted wi-fi traffic"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-16074", {
+    "entities": [
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "crossenv"],
+      ["VULNERABILITY", "info"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-0663", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "libxml2"],
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4]
+    ]
+  }],
+  ["CVE-2017-5842", {
+    "entities": [
+      ["SOFTWARE", "gstreamer"],
+      ["DRIVER", "gst/subparse/"],
+      ["V2_CVSS", 4.3],
+      ["SOURCECODE", "onenote_manager.smi"],
+      ["CWE", "CWE-787"],
+      ["STRUCT", "crafted smi file"],
+      ["FUNCTION", "html_context_handle_element"],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "samiparse.c"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-1000105", {
+    "entities": [
+      ["DRIVER", "item/read"],
+      ["SOFTWARE", "blue ocean"],
+      ["DRIVER", "run/artifacts"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-275"]
+    ]
+  }],
+  ["CVE-2017-6747", {
+    "entities": [
+      ["SOFTWARE", "identity services engine"],
+      ["CWE", "CWE-287"],
+      ["SOFTWARE", "ise express"],
+      ["SOFTWARE", "ise virtual appliance "],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 6.4],
+      ["VENDER", "cisco"],
+      ["V2_CVSS", 7.5],
+      ["SOFTWARE", "ise"]
+    ]
+  }],
+  ["CVE-2017-17114", {
+    "entities": [
+      ["VULNERABILITY", "overflow mem.corr."],
+      ["CWE", "CWE-119"],
+      ["SOURCECODE", "ntguard_x64.sys"],
+      ["V2_CVSS", 7.2],
+      ["SOURCECODE", "ntguard.sys"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "ikarus anti.virus"]
+    ]
+  }],
+  ["CVE-2017-9668", {
+    "entities": [
+      ["SOURCECODE", "addgroup.php"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "cms made simple"],
+      ["VULNERABILITY", "xss"]
+    ]
+  }],
+  ["CVE-2017-3418", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 5.8],
+      ["STRUCT", "crm technical foundation component"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["SOFTWARE", "e-business suite"]
+    ]
+  }],
+  ["CVE-2017-14927", {
+    "entities": [
+      ["SOURCECODE", "splashoutputdev.cc"],
+      ["V2_CVSS", 4.3],
+      ["STRUCT", "crafted pdf document"],
+      ["FUNCTION", "splashoutputdev::type3d0"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "poppler"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-476"]
+    ]
+  }],
+  ["CVE-2017-9336", {
+    "entities": [
+      ["VENDER", "wordpress"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "wp editor.md plugin"],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"]
+    ]
+  }],
+  ["CVE-2017-1000247", {
+    "entities": [
+      ["VENDER", "apache"],
+      ["SOFTWARE", "codeigniter"],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["FUNCTION", "set_status_header"]
+    ]
+  }],
+  ["CVE-2017-7248", {
+    "entities": [
+      ["SOFTWARE", "gazelle"],
+      ["V2_CVSS", 4.3],
+      ["SOURCECODE", "transcode.php"],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["DRIVER", "gazelle-master/sections/better/"],
+      ["VULNERABILITY", "execcode xss"]
+    ]
+  }],
+  ["CVE-2017-16166", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "dir.trav."],
+      ["SOFTWARE", "byucslabsix"],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-9706", {
+    "entities": [
+      ["V2_CVSS", 4.6],
+      ["SOFTWARE", "firefox"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "overflow"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-14341", {
+    "entities": [
+      ["SOURCECODE", "wpg.c"],
+      ["STRUCT", "crafted wpg image file"],
+      ["V2_CVSS", 7.1],
+      ["SOFTWARE", "imagemagick"],
+      ["DRIVER", "coders/"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-400"],
+      ["IMPACT", 6.9],
+      ["VENDER", "imagemagick"]
+    ]
+  }],
+  ["CVE-2017-9142", {
+    "entities": [
+      ["SOURCECODE", "png.c"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "imagemagick"],
+      ["DRIVER", "coders/"],
+      ["VULNERABILITY", "unknown"],
+      ["DRIVER", "magickcore/"],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "blob.c"],
+      ["VENDER", "imagemagick"]
+    ]
+  }],
+  ["CVE-2017-7659", {
+    "entities": [
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "http/2"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-476"]
+    ]
+  }],
+  ["CVE-2017-9205", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["STRUCT", "crafted image"],
+      ["SOURCECODE", "imagew-util.c"],
+      ["IMPACT", 2.9],
+      ["FUNCTION", "iw_get_ui16be"],
+      ["SOFTWARE", "imageworsener"],
+      ["CWE", "CWE-125"],
+      ["STRUCT", "libimageworsener.a"],
+      ["VULNERABILITY", "dos"],
+      ["SOURCECODE", "imagew-jpeg.c"]
+    ]
+  }],
+  ["CVE-2017-9126", {
+    "entities": [
+      ["SOFTWARE", "libquicktime"],
+      ["SOURCECODE", "dref.c"],
+      ["V2_CVSS", 4.3],
+      ["FUNCTION", "quicktime_read_dref_table"],
+      ["STRUCT", "crafted mp4 file"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-119"],
+      ["VULNERABILITY", "dos overflow"]
+    ]
+  }],
+  ["CVE-2017-8338", {
+    "entities": [
+      ["VENDER", "mikrotik"],
+      ["V2_CVSS", 7.8],
+      ["STRUCT", "flood of udp packets"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.9],
+      ["SOFTWARE", "mikrotik"],
+      ["CWE", "CWE-399"]
+    ]
+  }],
+  ["CVE-2017-4028", {
+    "entities": [
+      ["SOFTWARE", "windows products"],
+      ["VENDER", "microsoft"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 2.1],
+      ["VENDER", "mcafee"],
+      ["CWE", "CWE-74"]
+    ]
+  }],
+  ["CVE-2017-7796", {
+    "entities": [
+      ["V2_CVSS", 3.3],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 4.9],
+      ["SOURCECODE", "update.log"]
+    ]
+  }],
+  ["CVE-2017-5695", {
+    "entities": [
+      ["SOFTWARE", "lsf031p"],
+      ["SOFTWARE", "lsf036p"],
+      ["SOFTWARE", "lsdg200"],
+      ["SOFTWARE", "lsmg100"],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "lsf036e"],
+      ["SOFTWARE", "lsf031d"],
+      ["SOFTWARE", "lbf010c"],
+      ["SOFTWARE", "lsf031c"],
+      ["SOFTWARE", "lbf010p"],
+      ["IMPACT", 2.9],
+      ["STRUCT", "unspecified vectors"],
+      ["VENDER", "intel"],
+      ["V2_CVSS", 2.1],
+      ["SOFTWARE", "lsbg100"],
+      ["SOFTWARE", "lsf036d"],
+      ["SOFTWARE", "lsbg200"],
+      ["SOFTWARE", "lsf036c"],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "lsmg200"],
+      ["SOFTWARE", "lsf031e"]
+    ]
+  }],
+  ["CVE-2017-2513", {
+    "entities": [
+      ["SOFTWARE", "watchos"],
+      ["SOFTWARE", "macos"],
+      ["SOFTWARE", "tvos"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["VULNERABILITY", "dos execcode"],
+      ["STRUCT", "crafted sql statement"],
+      ["V2_CVSS", 7.5],
+      ["CWE", "CWE-416"]
+    ]
+  }],
+  ["CVE-2017-9083", {
+    "entities": [
+      ["FUNCTION", "jpxstream::readubyte"],
+      ["V2_CVSS", 4.3],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "poppler"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-476"],
+      ["SOURCECODE", "jpxstream.cc"]
+    ]
+  }],
+  ["CVE-2017-10264", {
+    "entities": [
+      ["SOFTWARE", "siebel crm"],
+      ["CWE", "NVD-CWE-noinfo"],
+      ["VENDER", "oracle"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-16921", {
+    "entities": [
+      ["SOFTWARE", "otrs"],
+      ["CWE", "CWE-77"],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "otrs"],
+      ["V2_CVSS", 9.0],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-16554", {
+    "entities": [
+      ["SOFTWARE", "k7 antivirus premium"],
+      ["V2_CVSS", 4.6],
+      ["STRUCT", "specific set of ioctl calls"],
+      ["VULNERABILITY", "priv"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4]
+    ]
+  }],
+  ["CVE-2017-11289", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "adobe"],
+      ["SOFTWARE", "adobe connect"]
+    ]
+  }],
+  ["CVE-2017-0223", {
+    "entities": [
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "chakra core"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-7542", {
+    "entities": [
+      ["VULNERABILITY", "dos overflow"],
+      ["IMPACT", 6.9],
+      ["V2_CVSS", 4.9],
+      ["SOURCECODE", "output_core.c"],
+      ["FUNCTION", "ip6_find_1stfragopt"],
+      ["SOFTWARE", "linux kernel"],
+      ["CWE", "CWE-190"],
+      ["DRIVER", "net/ipv6/"]
+    ]
+  }],
+  ["CVE-2017-2236", {
+    "entities": [
+      ["VENDER", "toshiba"],
+      ["SOFTWARE", "hem-gw16a"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-798"],
+      ["SOFTWARE", "hem-gw26a"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-0931", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "html-janitor"],
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-5410", {
+    "entities": [
+      ["SOFTWARE", "firefox"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "thunderbird"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "overflow mem.corr."],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-13985", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["VULNERABILITY", "dir.trav."],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9],
+      ["VENDER", "hpe"],
+      ["SOFTWARE", "bsm platform application performance management system health product"]
+    ]
+  }],
+  ["CVE-2017-0443", {
+    "entities": [
+      ["SOFTWARE", "wi-fi driver"],
+      ["V2_CVSS", 7.6],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-264"],
+      ["VENDER", "qualcomm"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-13167", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 7.2],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 10.0],
+      ["CWE", "CWE-264"]
+    ]
+  }],
+  ["CVE-2017-10030", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 5.8],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["SOFTWARE", "fusion middleware"]
+    ]
+  }],
+  ["CVE-2017-12647", {
+    "entities": [
+      ["SOFTWARE", "liferay"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["VENDER", "liferay"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"]
+    ]
+  }],
+  ["CVE-2017-6297", {
+    "entities": [
+      ["VENDER", "mikrotik"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "routeros"]
+    ]
+  }],
+  ["CVE-2017-13022", {
+    "entities": [
+      ["SOFTWARE", "tcpdump"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["FUNCTION", "ip_printroute"],
+      ["V2_CVSS", 7.5],
+      ["SOURCECODE", "print-ip.c"]
+    ]
+  }],
+  ["CVE-2017-0093", {
+    "entities": [
+      ["V2_CVSS", 7.6],
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["SOFTWARE", "edge"],
+      ["VENDER", "microsoft"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-17134", {
+    "entities": [
+      ["SOFTWARE", "v500r002c00"],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "te40 v500r002c00"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "te30 v100r001c10"],
+      ["STRUCT", "craft specific xml files"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "dp300 v500r002c00"],
+      ["SOFTWARE", "rp200 v500r002c00spc200"],
+      ["V2_CVSS", 2.1],
+      ["VENDER", "huawei"],
+      ["SOFTWARE", "v600r006c00"],
+      ["SOFTWARE", "te50 v500r002c00"],
+      ["SOFTWARE", "te60 v100r001c10"]
+    ]
+  }],
+  ["CVE-2017-12762", {
+    "entities": [
+      ["SOURCECODE", "isdn_net.c"],
+      ["CWE", "CWE-119"],
+      ["VULNERABILITY", "overflow"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["DRIVER", "/drivers/isdn/i4l/"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-5899", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["SOFTWARE", "s-nail"],
+      ["VULNERABILITY", "priv dir.trav."],
+      ["SOFTWARE", "s-mailx"],
+      ["V2_CVSS", 6.9],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-17129", {
+    "entities": [
+      ["DRIVER", "libavcodec/"],
+      ["V2_CVSS", 6.8],
+      ["STRUCT", "crafted file"],
+      ["SOURCECODE", "vc1_mc.c"],
+      ["SOFTWARE", "libav"],
+      ["IMPACT", 6.4],
+      ["FUNCTION", "ff_vc1_mc_4mv_chroma4"],
+      ["CWE", "CWE-476"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-12258", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "cisco"],
+      ["SOFTWARE", "unified communications manager"]
+    ]
+  }],
+  ["CVE-2017-10244", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "e-business suite"]
+    ]
+  }],
+  ["CVE-2017-12993", {
+    "entities": [
+      ["SOFTWARE", "tcpdump"],
+      ["SOURCECODE", "print-juniper.c"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["VENDER", "juniper"]
+    ]
+  }],
+  ["CVE-2017-8510", {
+    "entities": [
+      ["SOFTWARE", "office"],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "microsoft"],
+      ["CWE", "CWE-19"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-6289", {
+    "entities": [
+      ["V2_CVSS", 7.2],
+      ["VENDER", "nvidia"],
+      ["SOFTWARE", "android"],
+      ["SOFTWARE", "trusted execution environment"],
+      ["VULNERABILITY", "overflow mem.corr."],
+      ["IMPACT", 10.0],
+      ["CWE", "CWE-264"]
+    ]
+  }],
+  ["CVE-2017-4935", {
+    "entities": [
+      ["STRUCT", "jpeg2000 parser"],
+      ["SOURCECODE", "tpview.dll"],
+      ["VULNERABILITY", "dos execcode"],
+      ["CWE", "CWE-787"],
+      ["SOFTWARE", "horizon view client"],
+      ["VENDER", "vmware"],
+      ["V2_CVSS", 6.9],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "workstation"]
+    ]
+  }],
+  ["CVE-2017-3748", {
+    "entities": [
+      ["STRUCT", "nac_server component"],
+      ["VULNERABILITY", "unknown"],
+      ["VENDER", "lenovo"],
+      ["CWE", "CWE-264"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "vibe mobile phones"]
+    ]
+  }],
+  ["CVE-2017-16613", {
+    "entities": [
+      ["SOFTWARE", "openstack swift"],
+      ["CWE", "CWE-287"],
+      ["SOURCECODE", "middleware.py"],
+      ["SOFTWARE", "openstack swauth"],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-13068", {
+    "entities": [
+      ["VENDER", "qnap"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "sql info"],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "helpdesk application"],
+      ["CWE", "CWE-89"]
+    ]
+  }],
+  ["CVE-2017-14857", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "image.cpp"],
+      ["VULNERABILITY", "dos"],
+      ["CWE", "CWE-416"],
+      ["SOFTWARE", "exiv2"]
+    ]
+  }],
+  ["CVE-2017-12319", {
+    "entities": [
+      ["V2_CVSS", 7.1],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "ios xe "],
+      ["IMPACT", 6.9],
+      ["VENDER", "cisco"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-16687", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "hana database"],
+      ["VENDER", "sap"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "hana extended application services"],
+      ["SOFTWARE", "classic user self-service"]
+    ]
+  }],
+  ["CVE-2017-3096", {
+    "entities": [
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["SOFTWARE", "digital editions"],
+      ["VENDER", "adobe"],
+      ["V2_CVSS", 10.0],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-14834", {
+    "entities": [
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "foxit reader"],
+      ["CWE", "CWE-416"],
+      ["V2_CVSS", 6.8]
+    ]
+  }],
+  ["CVE-2017-14140", {
+    "entities": [
+      ["SOURCECODE", "migrate.c"],
+      ["VULNERABILITY", "info"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["DRIVER", "mm/"],
+      ["V2_CVSS", 2.1],
+      ["FUNCTION", "move_pages"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-3537", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 5.8],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["SOFTWARE", "utilities applications"],
+      ["IMPACT", 4.9]
+    ]
+  }],
+  ["CVE-2017-7797", {
+    "entities": [
+      ["SOFTWARE", "firefox"],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-346"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-6756", {
+    "entities": [
+      ["SOFTWARE", "prime collaboration provisioning tool"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "csrf"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-352"],
+      ["VENDER", "cisco"]
+    ]
+  }],
+  ["CVE-2017-13148", {
+    "entities": [
+      ["V2_CVSS", 7.1],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "android"],
+      ["SOFTWARE", "libmpeg2"],
+      ["IMPACT", 6.9],
+      ["SOFTWARE", "media framework"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-9195", {
+    "entities": [
+      ["SOFTWARE", "autotrace"],
+      ["SOURCECODE", "libautotrace.a"],
+      ["FUNCTION", "readimage"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["SOURCECODE", "input-tga.c"]
+    ]
+  }],
+  ["CVE-2017-9158", {
+    "entities": [
+      ["CWE", "CWE-787"],
+      ["SOFTWARE", "autotrace"],
+      ["FUNCTION", "pnm_load_raw"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["SOURCECODE", "input-pnm.c"],
+      ["STRUCT", "libautotrace.a"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-11118", {
+    "entities": [
+      ["STRUCT", "crafted jpg file"],
+      ["FUNCTION", "exifimagefile::readimage"],
+      ["V2_CVSS", 7.1],
+      ["SOFTWARE", "openexif"],
+      ["IMPACT", 6.9],
+      ["SOURCECODE", "exifimagefileread.cpp"],
+      ["CWE", "CWE-399"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-14362", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "project and portfolio management center"],
+      ["VULNERABILITY", "csrf"],
+      ["VENDER", "micro focus"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-352"]
+    ]
+  }],
+  ["CVE-2017-0191", {
+    "entities": [
+      ["SOFTWARE", "windows server 2016"],
+      ["SOFTWARE", "windows server 2008"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"],
+      ["V2_CVSS", 3.5],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-15322", {
+    "entities": [
+      ["V2_CVSS", 3.3],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "bgo-l03c331b009custc331d001"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["VENDER", "huawei"],
+      ["SOFTWARE", "smartphones"],
+      ["SOFTWARE", "bgo-l03c158b003custc158d001"]
+    ]
+  }],
+  ["CVE-2017-6033", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VENDER", "schneider electric"],
+      ["CWE", "CWE-427"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "igss"],
+      ["SOFTWARE", "interactive graphical scada system"]
+    ]
+  }],
+  ["CVE-2017-16106", {
+    "entities": [
+      ["SOFTWARE", "tmock"],
+      ["CWE", "CWE-22"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "dir.trav."],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-13765", {
+    "entities": [
+      ["STRUCT", "ircomm dissector"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["VENDER", "wireshark"],
+      ["V2_CVSS", 5.0],
+      ["SOURCECODE", "packet-ircomm.c"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "wireshark"],
+      ["DRIVER", "plugins/irda/"]
+    ]
+  }],
+  ["CVE-2017-15785", {
+    "entities": [
+      ["VENDER", "xnview"],
+      ["STRUCT", "crafted .dwg file"],
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "xnview classic"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-5215", {
+    "entities": [
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "execcode bypass"],
+      ["SOFTWARE", "b2j contact"],
+      ["IMPACT", 6.4],
+      ["VENDER", "codextrous"],
+      ["V2_CVSS", 7.5],
+      ["SOFTWARE", "b2j_contact"],
+      ["VENDER", "joomla"]
+    ]
+  }],
+  ["CVE-2017-7846", {
+    "entities": [
+      ["SOFTWARE", "thunderbird"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-74"],
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 6.8]
+    ]
+  }],
+  ["CVE-2017-10768", {
+    "entities": [
+      ["VENDER", "xnview"],
+      ["STRUCT", "crafted .rle file"],
+      ["V2_CVSS", 4.6],
+      ["SOFTWARE", "xnview classic"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "dos overflow"]
+    ]
+  }],
+  ["CVE-2017-0922", {
+    "entities": [
+      ["V2_CVSS", 5.0],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "gitlab enterprise edition"],
+      ["VULNERABILITY", "bypass"],
+      ["CWE", "CWE-285"]
+    ]
+  }],
+  ["CVE-2017-16681", {
+    "entities": [
+      ["VENDER", "sap"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "business intelligence promotion management application"]
+    ]
+  }],
+  ["CVE-2017-18271", {
+    "entities": [
+      ["STRUCT", "crafted miff image file"],
+      ["V2_CVSS", 7.1],
+      ["SOFTWARE", "imagemagick"],
+      ["DRIVER", "coders/"],
+      ["CWE", "CWE-400"],
+      ["IMPACT", 6.9],
+      ["FUNCTION", "readmiffimage"],
+      ["VENDER", "imagemagick"],
+      ["SOURCECODE", "miff.c"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-5602", {
+    "entities": [
+      ["SOFTWARE", "xep-0280"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-346"],
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-10987", {
+    "entities": [
+      ["CWE", "CWE-119"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["FUNCTION", "fr_dhcp_decode_suboptions"],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "freeradius"]
+    ]
+  }],
+  ["CVE-2017-10676", {
+    "entities": [
+      ["SOFTWARE", "dir-600m"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "d-link"],
+      ["SOURCECODE", "form2userconfig.cgi"]
+    ]
+  }],
+  ["CVE-2017-2464", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "tvos"],
+      ["SOFTWARE", "safari"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["CWE", "CWE-119"],
+      ["STRUCT", "crafted web site"]
+    ]
+  }],
+  ["CVE-2017-12893", {
+    "entities": [
+      ["FUNCTION", "name_len"],
+      ["SOFTWARE", "tcpdump"],
+      ["SOURCECODE", "smbutil.c"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["DRIVER", "smb/cifs"]
+    ]
+  }],
+  ["CVE-2017-16186", {
+    "entities": [
+      ["SOFTWARE", "360class.jansenhm"],
+      ["CWE", "CWE-22"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "dir.trav."],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-9759", {
+    "entities": [
+      ["DRIVER", "admin/"],
+      ["VULNERABILITY", "sql"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "zenbership"],
+      ["SOURCECODE", "index.php"],
+      ["CWE", "CWE-89"],
+      ["V2_CVSS", 6.5]
+    ]
+  }],
+  ["CVE-2017-2978", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "digital editions"],
+      ["V2_CVSS", 5.0],
+      ["VENDER", "adobe"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-6961", {
+    "entities": [
+      ["SOFTWARE", "apng2gif"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["FUNCTION", "read_chunk"]
+    ]
+  }],
+  ["CVE-2017-17325", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "hicinema"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "info"],
+      ["CWE", "CWE-275"],
+      ["VENDER", "huawei"]
+    ]
+  }],
+  ["CVE-2017-8344", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "imagemagick"],
+      ["SOFTWARE", "readpcximage"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 2.9],
+      ["STRUCT", "crafted file"],
+      ["VENDER", "imagemagick"],
+      ["SOURCECODE", "pcx.c"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-10832", {
+    "entities": [
+      ["STRUCT", "unspecified vectors"],
+      ["CWE", "CWE-78"],
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["SOFTWARE", "scr02hd"]
+    ]
+  }],
+  ["CVE-2017-0458", {
+    "entities": [
+      ["V2_CVSS", 7.6],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-264"],
+      ["VENDER", "qualcomm"],
+      ["SOFTWARE", "camera driver"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-16550", {
+    "entities": [
+      ["SOFTWARE", "k7 antivirus premium"],
+      ["V2_CVSS", 4.6],
+      ["STRUCT", "specific set of ioctl calls"],
+      ["VULNERABILITY", "priv"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4]
+    ]
+  }],
+  ["CVE-2017-14387", {
+    "entities": [
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 4.9],
+      ["V2_CVSS", 6.4],
+      ["VENDER", "emc"],
+      ["SOFTWARE", "isilon onefs"]
+    ]
+  }],
+  ["CVE-2017-8103", {
+    "entities": [
+      ["VENDER", "mybb"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["SOFTWARE", "mybb"],
+      ["IMPACT", 2.9],
+      ["STRUCT", "email mycode component"],
+      ["VULNERABILITY", "xss"]
+    ]
+  }],
+  ["CVE-2017-11027", {
+    "entities": [
+      ["V2_CVSS", 4.6],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-16394", {
+    "entities": [
+      ["SOFTWARE", "acrobat"],
+      ["SOFTWARE", "reader"],
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["CWE", "CWE-125"],
+      ["VENDER", "adobe"]
+    ]
+  }],
+  ["CVE-2017-17854", {
+    "entities": [
+      ["VULNERABILITY", "dos overflow mem.corr."],
+      ["SOURCECODE", "verifier.c"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0],
+      ["DRIVER", "kernel/bpf/"],
+      ["SOFTWARE", "linux kernel"],
+      ["CWE", "CWE-190"]
+    ]
+  }],
+  ["CVE-2017-14865", {
+    "entities": [
+      ["FUNCTION", "exiv2::us2data"],
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "types.cpp"],
+      ["CWE", "CWE-119"],
+      ["VULNERABILITY", "dos overflow"],
+      ["SOFTWARE", "exiv2"]
+    ]
+  }],
+  ["CVE-2017-10023", {
+    "entities": [
+      ["STRUCT", "flexcube private banking component"],
+      ["SOFTWARE", "financial services applications"],
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-14551", {
+    "entities": [
+      ["STRUCT", "crafted .djvu file"],
+      ["V2_CVSS", 4.6],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "stdu viewer"],
+      ["VULNERABILITY", "dos overflow"]
+    ]
+  }],
+  ["CVE-2017-10029", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["STRUCT", "bi publisher component"],
+      ["V2_CVSS", 5.8],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["SOFTWARE", "fusion middleware"]
+    ]
+  }],
+  ["CVE-2017-1000469", {
+    "entities": [
+      ["V2_CVSS", 10.0],
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "cobbler"],
+      ["CWE", "CWE-20"]
+    ]
+  }],
+  ["CVE-2017-0145", {
+    "entities": [
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "windows 8.1"],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows vista"],
+      ["SOFTWARE", "windows server 2016"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 7"]
+    ]
+  }],
+  ["CVE-2017-3877", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "callmanager"],
+      ["VULNERABILITY", "csrf"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-352"],
+      ["VENDER", "cisco"],
+      ["SOFTWARE", "unified communications manager"]
+    ]
+  }],
+  ["CVE-2017-3215", {
+    "entities": [
+      ["SOFTWARE", "milwaukee one-key"],
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-9170", {
+    "entities": [
+      ["SOURCECODE", "libautotrace.a"],
+      ["SOFTWARE", "autotrace"],
+      ["FUNCTION", "readimage"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "overflow"],
+      ["V2_CVSS", 7.5],
+      ["CWE", "CWE-119"],
+      ["SOURCECODE", "input-bmp.c"]
+    ]
+  }],
+  ["CVE-2017-12477", {
+    "entities": [
+      ["CWE", "CWE-287"],
+      ["VENDER", "unitrends"],
+      ["SOFTWARE", "unitrends backup"],
+      ["IMPACT", 10.0],
+      ["VULNERABILITY", "execcode bypass"],
+      ["V2_CVSS", 10.0]
+    ]
+  }],
+  ["CVE-2017-1533", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "security access manager appliance"]
+    ]
+  }],
+  ["CVE-2017-1553", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "infosphere biginsights"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-7695", {
+    "entities": [
+      ["VULNERABILITY", "execcode bypass"],
+      ["SOFTWARE", "bigtree cms"],
+      ["STRUCT", "unrestricted file upload"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-434"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-8240", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-119"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-13808", {
+    "entities": [
+      ["STRUCT", "crafted app"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["VENDER", "apple"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "macos"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-6757", {
+    "entities": [
+      ["IMPACT", 6.4],
+      ["VENDER", "cisco"],
+      ["SOFTWARE", "unified communications manager"],
+      ["CWE", "CWE-89"],
+      ["V2_CVSS", 6.5],
+      ["VULNERABILITY", "sql bypass"]
+    ]
+  }],
+  ["CVE-2017-3319", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["VENDER", "oracle"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["SOFTWARE", "mysql"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-7694", {
+    "entities": [
+      ["SOURCECODE", "content.blueprintsdatasources.php"],
+      ["SOFTWARE", "symphony cms"],
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-94"],
+      ["IMPACT", 6.4],
+      ["DRIVER", "symphony/content/"],
+      ["V2_CVSS", 6.5]
+    ]
+  }],
+  ["CVE-2017-7437", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["SOFTWARE", "privileged account manager"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "netiq"]
+    ]
+  }],
+  ["CVE-2017-12985", {
+    "entities": [
+      ["SOFTWARE", "tcpdump"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["SOURCECODE", "print-ip6.c"],
+      ["FUNCTION", "ip6_print"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-11664", {
+    "entities": [
+      ["SOURCECODE", "internal_midi.c"],
+      ["SOFTWARE", "wildmidi"],
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-125"],
+      ["FUNCTION", "_wm_setupmidievent"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-0900", {
+    "entities": [
+      ["VULNERABILITY", "dos"],
+      ["V2_CVSS", 5.0],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "rubygems"],
+      ["CWE", "CWE-20"]
+    ]
+  }],
+  ["CVE-2017-2943", {
+    "entities": [
+      ["SOFTWARE", "acrobat"],
+      ["SOFTWARE", "reader"],
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["CWE", "CWE-119"],
+      ["V2_CVSS", 9.3],
+      ["VENDER", "adobe"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-14487", {
+    "entities": [
+      ["CWE", "CWE-310"],
+      ["SOURCECODE", "omb.xml"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "ohmibod remote"],
+      ["SOFTWARE", "android"],
+      ["DRIVER", "data/data/com.ohmibod.remote2/shared_prefs/"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 4.9],
+      ["V2_CVSS", 6.4]
+    ]
+  }],
+  ["CVE-2017-15216", {
+    "entities": [
+      ["SOURCECODE", "/quickdeleteconfirmationform.ctp"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["SOURCECODE", "misp.js"],
+      ["DRIVER", "app/view/sightings/ajax/"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["DRIVER", "app/webroot/js/"],
+      ["SOFTWARE", "misp"]
+    ]
+  }],
+  ["CVE-2017-1000386", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "active choices plugin"],
+      ["VULNERABILITY", "xss"],
+      ["V2_CVSS", 3.5],
+      ["VENDER", "jenkins"]
+    ]
+  }],
+  ["CVE-2017-6990", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-284"],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 2.9],
+      ["VENDER", "apple"],
+      ["SOFTWARE", "macos"],
+      ["STRUCT", "crafted app"]
+    ]
+  }],
+  ["CVE-2017-14453", {
+    "entities": [
+      ["VULNERABILITY", "overflow"],
+      ["SOFTWARE", "hub 2245-222 devices"],
+      ["VENDER", "insteon"]
+    ]
+  }],
+  ["CVE-2017-1000452", {
+    "entities": [
+      ["SOFTWARE", "samlify"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-91"],
+      ["V2_CVSS", 6.0],
+      ["VULNERABILITY", "unknown"]
+    ]
+  }],
+  ["CVE-2017-14425", {
+    "entities": [
+      ["DRIVER", "/var/etc/hnapasswd"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "dir-850l"],
+      ["V2_CVSS", 2.1],
+      ["VENDER", "d-link"]
+    ]
+  }],
+  ["CVE-2017-3043", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "acrobat"],
+      ["V2_CVSS", 4.3],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["VENDER", "adobe"],
+      ["SOFTWARE", "reader"]
+    ]
+  }],
+  ["CVE-2017-9581", {
+    "entities": [
+      ["SOFTWARE", "ios"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "algonquin state bank mobile banking"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "info"],
+      ["CWE", "CWE-295"],
+      ["STRUCT", "crafted certificate"]
+    ]
+  }],
+  ["CVE-2017-6869", {
+    "entities": [
+      ["SOFTWARE", "office"],
+      ["VULNERABILITY", "execcode"],
+      ["CWE", "CWE-264"],
+      ["STRUCT", "crafted network packets"],
+      ["IMPACT", 10.0],
+      ["VENDER", "siemens"],
+      ["V2_CVSS", 10.0],
+      ["SOFTWARE", "viewport"]
+    ]
+  }],
+  ["CVE-2017-6625", {
+    "entities": [
+      ["SOFTWARE", "firepower threat defense"],
+      ["IMPACT", 4.9],
+      ["CWE", "CWE-399"],
+      ["V2_CVSS", 5.5],
+      ["VULNERABILITY", "dos"],
+      ["VENDER", "cisco"]
+    ]
+  }],
+  ["CVE-2017-2836", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["VENDER", "freerdp"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-295"],
+      ["SOFTWARE", "freerdp"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-1349", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "sterling b2b integrator standard edition"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["VENDER", "ibm"],
+      ["V2_CVSS", 2.1]
+    ]
+  }],
+  ["CVE-2017-1320", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "tivoli federated identity manager"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-18175", {
+    "entities": [
+      ["SOFTWARE", "progress sitefinity"],
+      ["CWE", "CWE-79"],
+      ["V2_CVSS", 3.5],
+      ["VULNERABILITY", "xss"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-2320", {
+    "entities": [
+      ["SOFTWARE", "networks northstar controller application"],
+      ["VULNERABILITY", "dos info"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 10.0],
+      ["V2_CVSS", 10.0],
+      ["VENDER", "juniper"]
+    ]
+  }],
+  ["CVE-2017-16653", {
+    "entities": [
+      ["VENDER", "symfony"],
+      ["SOFTWARE", "symfony"],
+      ["VULNERABILITY", "csrf"]
+    ]
+  }],
+  ["CVE-2017-10997", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "overflow mem.corr."],
+      ["SOFTWARE", "android"],
+      ["VENDER", "qualcomm"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-1000073", {
+    "entities": [
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "gravity"],
+      ["V2_CVSS", 7.5],
+      ["VENDER", "creolabs"]
+    ]
+  }],
+  ["CVE-2017-2321", {
+    "entities": [
+      ["SOFTWARE", "networks northstar controller application"],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "dos execcode"],
+      ["V2_CVSS", 7.5],
+      ["VENDER", "juniper"]
+    ]
+  }],
+  ["CVE-2017-8271", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "mdss rotator driver"],
+      ["CWE", "CWE-787"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4],
+      ["VENDER", "qualcomm"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-2100", {
+    "entities": [
+      ["STRUCT", "unspecified vectors"],
+      ["V2_CVSS", 6.8],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "appgoat"]
+    ]
+  }],
+  ["CVE-2017-2784", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", "arm"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-295"],
+      ["SOFTWARE", "mbed tls"]
+    ]
+  }],
+  ["CVE-2017-9187", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["SOURCECODE", "libautotrace.a"],
+      ["SOFTWARE", "autotrace"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5],
+      ["CWE", "CWE-190"],
+      ["SOURCECODE", "input-bmp.c"]
+    ]
+  }],
+  ["CVE-2017-1452", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-264"],
+      ["SOFTWARE", "db2"],
+      ["VENDER", "ibm"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-14612", {
+    "entities": [
+      ["SOFTWARE", "boot sale & classifieds"],
+      ["SOFTWARE", "ios"],
+      ["V2_CVSS", 4.3],
+      ["STRUCT", "crafted certificate"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "info"],
+      ["CWE", "CWE-295"],
+      ["VENDER", "shpock"]
+    ]
+  }],
+  ["CVE-2017-18049", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["VENDER", "microsoft"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "excel"],
+      ["SOFTWARE", "silverstripe"],
+      ["CWE", "CWE-74"]
+    ]
+  }],
+  ["CVE-2017-15186", {
+    "entities": [
+      ["CWE", "CWE-415"],
+      ["STRUCT", "crafted avi file"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "ffmpeg"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ffmpeg"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-1374", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["SOFTWARE", "tririga application platform"],
+      ["VENDER", "ibm"]
+    ]
+  }],
+  ["CVE-2017-15427", {
+    "entities": [
+      ["SOFTWARE", "chrome"],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "google"],
+      ["SOFTWARE", "omnibox"]
+    ]
+  }],
+  ["CVE-2017-7906", {
+    "entities": [
+      ["SOFTWARE", "ip gateway"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "unknown"],
+      ["VENDER", "abb"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-352"]
+    ]
+  }],
+  ["CVE-2017-14149", {
+    "entities": [
+      ["VULNERABILITY", "unknown"],
+      ["SOURCECODE", "http.c"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-476"],
+      ["FUNCTION", "websdecodeurl"],
+      ["SOFTWARE", "goahead"]
+    ]
+  }],
+  ["CVE-2017-10330", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["V2_CVSS", 6.4],
+      ["SOFTWARE", "e-business suite"]
+    ]
+  }],
+  ["CVE-2017-17735", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "cmsms"],
+      ["SOFTWARE", "cms made simple"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0]
+    ]
+  }],
+  ["CVE-2017-2267", {
+    "entities": [
+      ["CWE", "CWE-426"],
+      ["VULNERABILITY", "priv"],
+      ["STRUCT", "trojan horse dll"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "filecapsule deluxe portable"]
+    ]
+  }],
+  ["CVE-2017-9502", {
+    "entities": [
+      ["SOFTWARE", "curl"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VULNERABILITY", "overflow"],
+      ["CWE", "CWE-119"],
+      ["STRUCT", "libcurl"]
+    ]
+  }],
+  ["CVE-2017-14764", {
+    "entities": [
+      ["SOFTWARE", " genixcms"],
+      ["VULNERABILITY", "execcode"],
+      ["VENDER", " genixcms"],
+      ["CWE", "CWE-94"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 6.5]
+    ]
+  }],
+  ["CVE-2017-17782", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOURCECODE", "png.c"],
+      ["DRIVER", "coders/"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["FUNCTION", "readonejngimage"],
+      ["SOFTWARE", "graphicsmagick"]
+    ]
+  }],
+  ["CVE-2017-0369", {
+    "entities": [
+      ["SOFTWARE", "mediawiki"],
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 4.0],
+      ["CWE", "CWE-264"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-1000500", {
+    "entities": [
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-74"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "keycloak"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-17809", {
+    "entities": [
+      ["CWE", "CWE-426"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "golden frog vyprvpn"],
+      ["SOFTWARE", "macos"]
+    ]
+  }],
+  ["CVE-2017-5231", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["VULNERABILITY", "dir.trav."],
+      ["V2_CVSS", 5.1],
+      ["FUNCTION", "commanddispatcher.cmd_download"],
+      ["VENDER", "rapid7"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "metasploit"]
+    ]
+  }],
+  ["CVE-2017-1002000", {
+    "entities": [
+      ["VENDER", "wordpress"],
+      ["DRIVER", "./mobile-friendly-app-builder-by-easytouch/server/"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-434"],
+      ["SOFTWARE", "mobile-friendly-app-builder-by-easytouch"],
+      ["V2_CVSS", 7.5],
+      ["SOURCECODE", "images.php"]
+    ]
+  }],
+  ["CVE-2017-13143", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "imagemagick"],
+      ["DRIVER", "coders/"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["SOURCECODE", "mat.c"],
+      ["VENDER", "imagemagick"],
+      ["FUNCTION", "readmatimage"]
+    ]
+  }],
+  ["CVE-2017-9920", {
+    "entities": [
+      ["VENDER", "irfanview"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "irfanview"],
+      ["V2_CVSS", 4.4],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-5869", {
+    "entities": [
+      ["CWE", "CWE-22"],
+      ["VULNERABILITY", "execcode dir.trav."],
+      ["VENDER", "nuxeo"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "nuxeo"],
+      ["V2_CVSS", 6.5]
+    ]
+  }],
+  ["CVE-2017-1245", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["SOFTWARE", "rational software architect design manager"],
+      ["IMPACT", 2.9],
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "xss"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-10789", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-254"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "perl"],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "mysql"]
+    ]
+  }],
+  ["CVE-2017-2923", {
+    "entities": [
+      ["FUNCTION", "read_biff_next_record"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "freexl"]
+    ]
+  }],
+  ["CVE-2017-14895", {
+    "entities": [
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "android"],
+      ["V2_CVSS", 7.2],
+      ["IMPACT", 10.0],
+      ["CWE", "CWE-264"],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-15856", {
+    "entities": [
+      ["CWE", "CWE-415"],
+      ["SOFTWARE", "firefox"],
+      ["VULNERABILITY", "unknown"],
+      ["STRUCT", "race condition"],
+      ["SOFTWARE", "android"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 4.4],
+      ["SOFTWARE", "linux kernel"]
+    ]
+  }],
+  ["CVE-2017-8716", {
+    "entities": [
+      ["SOFTWARE", "control flow guard"],
+      ["V2_CVSS", 4.6],
+      ["CWE", "CWE-254"],
+      ["VENDER", "microsoft"],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "windows 10"]
+    ]
+  }],
+  ["CVE-2017-1366", {
+    "entities": [
+      ["VENDER", "ibm"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "security identity governance virtual appliance"]
+    ]
+  }],
+  ["CVE-2017-15780", {
+    "entities": [
+      ["VENDER", "xnview"],
+      ["STRUCT", "crafted .dwg file"],
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "xnview classic"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["VULNERABILITY", "dos overflow"]
+    ]
+  }],
+  ["CVE-2017-2214", {
+    "entities": [
+      ["SOFTWARE", "appcheck pro"],
+      ["SOFTWARE", "appcheck"],
+      ["CWE", "CWE-426"],
+      ["VULNERABILITY", "execcode"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-12850", {
+    "entities": [
+      ["CWE", "CWE-640"],
+      ["SOFTWARE", "kanboard"],
+      ["VULNERABILITY", "unknown"],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-0441", {
+    "entities": [
+      ["SOFTWARE", "wi-fi driver"],
+      ["V2_CVSS", 7.6],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-264"],
+      ["VENDER", "qualcomm"],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-2481", {
+    "entities": [
+      ["V2_CVSS", 6.8],
+      ["SOFTWARE", "tvos"],
+      ["SOFTWARE", "safari"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["IMPACT", 6.4],
+      ["VENDER", "apple"],
+      ["CWE", "CWE-119"],
+      ["STRUCT", "crafted web site"]
+    ]
+  }],
+  ["CVE-2017-12123", {
+    "entities": [
+      ["V2_CVSS", 3.3],
+      ["CWE", "CWE-255"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["VENDER", "moxa"],
+      ["SOFTWARE", "edr-810"]
+    ]
+  }],
+  ["CVE-2017-2167", {
+    "entities": [
+      ["CWE", "CWE-426"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "primedrive desktop application"],
+      ["STRUCT", "specially crafted executable file"]
+    ]
+  }],
+  ["CVE-2017-6633", {
+    "entities": [
+      ["SOFTWARE", "ucs c-series rack servers"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["VENDER", "cisco"],
+      ["CWE", "CWE-119"],
+      ["VULNERABILITY", "dos overflow"]
+    ]
+  }],
+  ["CVE-2017-10748", {
+    "entities": [
+      ["VENDER", "xnview"],
+      ["STRUCT", "crafted .rle file"],
+      ["V2_CVSS", 4.6],
+      ["SOFTWARE", "xnview classic"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["IMPACT", 6.4],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-11366", {
+    "entities": [
+      ["CWE", "CWE-77"],
+      ["VULNERABILITY", "execcode"],
+      ["SOURCECODE", "class.filemanager.php"],
+      ["VENDER", "codiad"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "codiad"],
+      ["V2_CVSS", 7.5],
+      ["DRIVER", "components/filemanager/"]
+    ]
+  }],
+  ["CVE-2017-8686", {
+    "entities": [
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["SOFTWARE", "windows server dhcp service"],
+      ["SOFTWARE", "windows server 2016"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["SOFTWARE", "windows server 2012"],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-13789", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "safari"],
+      ["IMPACT", 2.9],
+      ["VENDER", "apple"],
+      ["STRUCT", "crafted web site"]
+    ]
+  }],
+  ["CVE-2017-13862", {
+    "entities": [
+      ["SOFTWARE", "watchos"],
+      ["STRUCT", "crafted app"],
+      ["SOFTWARE", "tvos"],
+      ["VULNERABILITY", "dos execcode overflow"],
+      ["SOFTWARE", "ios"],
+      ["VENDER", "apple"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "macos"],
+      ["CWE", "CWE-119"]
+    ]
+  }],
+  ["CVE-2017-7591", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["DRIVER", "managed/user/"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "openidm"]
+    ]
+  }],
+  ["CVE-2017-17469", {
+    "entities": [
+      ["IMPACT", 8.5],
+      ["V2_CVSS", 6.1],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "vir.it explorer lite"],
+      ["VULNERABILITY", "dos overflow"],
+      ["VENDER", "tg soft"]
+    ]
+  }],
+  ["CVE-2017-14506", {
+    "entities": [
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["V2_CVSS", 3.5],
+      ["STRUCT", "crafted gem.homepage value"],
+      ["SOFTWARE", "gem in a box"],
+      ["SOFTWARE", "geminabox"]
+    ]
+  }],
+  ["CVE-2017-0873", {
+    "entities": [
+      ["V2_CVSS", 7.1],
+      ["CWE", "CWE-20"],
+      ["SOFTWARE", "android"],
+      ["SOFTWARE", "libmpeg2"],
+      ["IMPACT", 6.9],
+      ["SOFTWARE", "media framework"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-5521", {
+    "entities": [
+      ["SOFTWARE", "r6250"],
+      ["VULNERABILITY", "info"],
+      ["SOFTWARE", "r7300"],
+      ["V2_CVSS", 4.3],
+      ["SOFTWARE", "r8500"],
+      ["SOFTWARE", "r8300"],
+      ["SOFTWARE", "wnr3500lv2"],
+      ["SOFTWARE", "r7000"],
+      ["SOFTWARE", "r6300v2"],
+      ["SOFTWARE", "r8000"],
+      ["STRUCT", "simple crafted requests"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["SOFTWARE", "r6900"],
+      ["SOFTWARE", "wndr3400v3"],
+      ["SOFTWARE", "r7100lg"],
+      ["SOFTWARE", "r6400"],
+      ["VENDER", "netgear"],
+      ["SOFTWARE", "r6700"]
+    ]
+  }],
+  ["CVE-2017-9764", {
+    "entities": [
+      ["SOURCECODE", "stat.php"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["DRIVER", "include/stat/"],
+      ["SOFTWARE", "metinfo"]
+    ]
+  }],
+  ["CVE-2017-1000147", {
+    "entities": [
+      ["V2_CVSS", 6.0],
+      ["CWE", "CWE-352"],
+      ["SOFTWARE", "mahara"],
+      ["VULNERABILITY", "csrf"],
+      ["IMPACT", 6.4]
+    ]
+  }],
+  ["CVE-2017-7535", {
+    "entities": [
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "foreman"]
+    ]
+  }],
+  ["CVE-2017-0088", {
+    "entities": [
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows vista"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows 7"]
+    ]
+  }],
+  ["CVE-2017-0470", {
+    "entities": [
+      ["VULNERABILITY", "execcode overflow mem.corr."],
+      ["SOFTWARE", "android"],
+      ["CWE", "CWE-119"],
+      ["SOFTWARE", "mediaserver"],
+      ["V2_CVSS", 9.3],
+      ["IMPACT", 10.0]
+    ]
+  }],
+  ["CVE-2017-11285", {
+    "entities": [
+      ["SOFTWARE", "coldfusion"],
+      ["V2_CVSS", 4.3],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["VENDER", "adobe"]
+    ]
+  }],
+  ["CVE-2017-13062", {
+    "entities": [
+      ["V2_CVSS", 4.3],
+      ["STRUCT", "crafted file"],
+      ["SOFTWARE", "imagemagick"],
+      ["DRIVER", "coders/"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 2.9],
+      ["SOURCECODE", "meta.c"],
+      ["VENDER", "imagemagick"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-8489", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["STRUCT", "specially crafted application"],
+      ["V2_CVSS", 1.9],
+      ["VENDER", "microsoft"],
+      ["SOFTWARE", "windows 7"],
+      ["SOFTWARE", "windows server 2016"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["SOFTWARE", "windows 10"],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 8.1"]
+    ]
+  }],
+  ["CVE-2017-9727", {
+    "entities": [
+      ["DRIVER", "base/"],
+      ["VENDER", "artifex"],
+      ["V2_CVSS", 6.8],
+      ["SOURCECODE", "gxttfb.c"],
+      ["CWE", "CWE-119"],
+      ["IMPACT", 6.4],
+      ["STRUCT", "crafted document"],
+      ["VULNERABILITY", "dos"],
+      ["SOFTWARE", "ghostscript ghostxps"],
+      ["FUNCTION", "gx_ttfreader__read"]
+    ]
+  }],
+  ["CVE-2017-18219", {
+    "entities": [
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 4.3],
+      ["SOURCECODE", "png.c"],
+      ["DRIVER", "coders/"],
+      ["FUNCTION", "readonepngimage"],
+      ["SOFTWARE", "graphicsmagick"],
+      ["CWE", "CWE-399"],
+      ["VULNERABILITY", "dos"]
+    ]
+  }],
+  ["CVE-2017-0162", {
+    "entities": [
+      ["CWE", "CWE-20"],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "hyper-v network switch"],
+      ["SOFTWARE", "windows server 2016"],
+      ["SOFTWARE", "windows 10"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows 8.1"],
+      ["SOFTWARE", "windows server 2012"],
+      ["V2_CVSS", 7.4]
+    ]
+  }],
+  ["CVE-2017-0058", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 1.9],
+      ["SOFTWARE", "win32k"],
+      ["VENDER", "microsoft"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"]
+    ]
+  }],
+  ["CVE-2017-3396", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["V2_CVSS", 5.8],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["IMPACT", 4.9],
+      ["SOFTWARE", "e-business suite"]
+    ]
+  }],
+  ["CVE-2017-8720", {
+    "entities": [
+      ["SOFTWARE", "windows 8.1"],
+      ["SOFTWARE", "win32k"],
+      ["VENDER", "microsoft"],
+      ["VULNERABILITY", "unknown"],
+      ["SOFTWARE", "windows server 2016"],
+      ["STRUCT", "windows graphics component"],
+      ["CWE", "CWE-264"],
+      ["V2_CVSS", 7.2],
+      ["SOFTWARE", "windows 10"],
+      ["IMPACT", 10.0],
+      ["SOFTWARE", "windows rt 8.1"],
+      ["SOFTWARE", "windows server 2008"],
+      ["SOFTWARE", "windows server 2012"],
+      ["SOFTWARE", "windows 7"]
+    ]
+  }],
+  ["CVE-2017-6157", {
+    "entities": [
+      ["CWE", "CWE-77"],
+      ["SOFTWARE", "aam"],
+      ["SOFTWARE", "link controller"],
+      ["V2_CVSS", 6.8],
+      ["VULNERABILITY", "execcode"],
+      ["SOFTWARE", "dns"],
+      ["SOFTWARE", "analytics"],
+      ["IMPACT", 6.4],
+      ["VENDER", "f5"],
+      ["SOFTWARE", "gtm"],
+      ["SOFTWARE", "big-ip ltm"],
+      ["SOFTWARE", "asm"],
+      ["SOFTWARE", "pem"],
+      ["SOFTWARE", "apm"],
+      ["SOFTWARE", "websafe"],
+      ["SOFTWARE", "afm"]
+    ]
+  }],
+  ["CVE-2017-3308", {
+    "entities": [
+      ["VENDER", "oracle"],
+      ["VULNERABILITY", "unknown"],
+      ["CWE", "CWE-284"],
+      ["V2_CVSS", 4.0],
+      ["IMPACT", 2.9],
+      ["SOFTWARE", "mysql"]
+    ]
+  }],
+  ["CVE-2017-0909", {
+    "entities": [
+      ["CWE", "CWE-254"],
+      ["V2_CVSS", 7.5],
+      ["SOFTWARE", "private_address_check ruby"],
+      ["VULNERABILITY", "bypass"],
+      ["IMPACT", 6.4]
+    ]
+  }],
+  ["CVE-2017-16056", {
+    "entities": [
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "mssql"],
+      ["VULNERABILITY", "info"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-16014", {
+    "entities": [
+      ["VULNERABILITY", "dos"],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-388"],
+      ["SOFTWARE", "http-proxy"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-11439", {
+    "entities": [
+      ["VENDER", "sitecore"],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "sitecore"],
+      ["DRIVER", "shell/applications/tools/run"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-2789", {
+    "entities": [
+      ["SOFTWARE", "ichitaro office"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["VENDER", "justsystems"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-3156", {
+    "entities": [
+      ["VENDER", "apache"],
+      ["CWE", "CWE-361"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "cxf"]
+    ]
+  }],
+  ["CVE-2017-17280", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 2.9],
+      ["SOFTWARE", "lon-al00bc00"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["VENDER", "huawei"]
+    ]
+  }],
+  ["CVE-2017-16056", {
+    "entities": [
+      ["CWE", "CWE-200"],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "mssql"],
+      ["VULNERABILITY", "info"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-16014", {
+    "entities": [
+      ["VULNERABILITY", "dos"],
+      ["V2_CVSS", 5.0],
+      ["CWE", "CWE-388"],
+      ["SOFTWARE", "http-proxy"],
+      ["IMPACT", 2.9]
+    ]
+  }],
+  ["CVE-2017-11439", {
+    "entities": [
+      ["VENDER", "sitecore"],
+      ["CWE", "CWE-79"],
+      ["IMPACT", 2.9],
+      ["VULNERABILITY", "xss"],
+      ["SOFTWARE", "sitecore"],
+      ["DRIVER", "shell/applications/tools/run"],
+      ["V2_CVSS", 3.5]
+    ]
+  }],
+  ["CVE-2017-2789", {
+    "entities": [
+      ["SOFTWARE", "ichitaro office"],
+      ["VULNERABILITY", "execcode overflow"],
+      ["CWE", "CWE-119"],
+      ["VENDER", "justsystems"],
+      ["IMPACT", 6.4],
+      ["V2_CVSS", 7.5]
+    ]
+  }],
+  ["CVE-2017-3156", {
+    "entities": [
+      ["VENDER", "apache"],
+      ["CWE", "CWE-361"],
+      ["VULNERABILITY", "unknown"],
+      ["IMPACT", 2.9],
+      ["V2_CVSS", 5.0],
+      ["SOFTWARE", "cxf"]
+    ]
+  }],
+  ["CVE-2017-17280", {
+    "entities": [
+      ["VULNERABILITY", "info"],
+      ["V2_CVSS", 2.9],
+      ["SOFTWARE", "lon-al00bc00"],
+      ["IMPACT", 2.9],
+      ["CWE", "CWE-200"],
+      ["VENDER", "huawei"]
+    ]
+  }]
+]

@@ -23,6 +23,7 @@ for d in data[1]:
 entities = pd.DataFrame(entities)
 
 NodeTable = pd.concat([node, entities], axis = 1)
+NodeTable['Id'] = NodeTable.index
 NodeTable.to_csv("Node.csv", index = False)
 
 # feature들의 NaN 값 frequency
